@@ -16,41 +16,41 @@ stats:
       description: Digitized specimens
       background: /assets/images/placeholders/specimen.png
 
-couldBeAnyName:
-  title: Virginis socerque
+collections:
+  title: Collections <span id="collections"></span>
   description: |
-    Forth beginning form dry thing. Form seed void likeness darkness light. Can’t created third upon spirit fruitful hath likeness their. Replenish saw female night they’re you blessed all greater cattle, grass god fifth you’re. Above wherein replenish face multiply male every. Own hath lights under creeping.
+    For now this is just a hardcoded list of collections. But if this became more dynamic, then it could be made so that they were generated from APIs
   features:
-    - title: Abundantly light years # required
+    - title: Meise Botanic Garden
       description: |      # required
         Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
-      href: /about
+      href: /collection/6416a67f-3c3e-495c-8998-568f64249178
       # img required
       background: /assets/images/placeholders/blocks2.png
       imageLicense: None for this image, but normally you would provide one here
       # categories: [drawings] # optional
-    - title: Fly moving land # required
+    - title: Meise Living Collection
       description: |      # required
         Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
-      href: /about
+      href: /collection/6416a67f-3c3e-495c-8998-568f64249178
       background: /assets/images/placeholders/blocks2.png
       imageLicense: None for this image, but normally you would provide one here
-    - title: Fruitful replenish # required
+    - title: Ghent University - Vertebrate collection
       description: |      # required
         Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
-      href: /about
+      href: /collection/6416a67f-3c3e-495c-8998-568f64249178
       background: /assets/images/placeholders/blocks2.png
       imageLicense: None for this image, but normally you would provide one here
-    - title: Land man dry # required
+    - title: Ghent University - Insect collection
       description: |      # required
         Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
-      href: /about
+      href: /collection/6416a67f-3c3e-495c-8998-568f64249178
       background: /assets/images/placeholders/blocks2.png
       imageLicense: None for this image, but normally you would provide one here
-    - title: Abundantly light years # required
+    - title: Ghent university - Nematod Collection
       description: |      # required
         Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
-      href: /about
+      href: /collection/6416a67f-3c3e-495c-8998-568f64249178
       background: /assets/images/placeholders/blocks2.png
       imageLicense: None for this image, but normally you would provide one here
 
@@ -68,3 +68,32 @@ herbariumImageExample:
   - text: Download report
     href: http://example.com
     isPrimary: true
+
+
+
+
+partners:
+  title: "Flemish participating partners"
+  description: |
+    Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
+    flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
+    pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+  features:
+    - title: Vrije Universiteit Brussel # required
+      description: |      # required
+        Vrije Universiteit Brussel (VUB) has relatively small collections and will also address its small lab or orphan collections within DiSSCo.
+
+        Aware of the importance of collections, but knowing that the staff member in charge will retire soon and facing a rather low probability of a replacement, the VUB wishes to do an as complete as possible inventory and within DiSSCo decide on the workflow on how to deposit most of the collections elsewhere for safekeeping and better accessibility for scientific reuse, rather than invest in local repositories.
+
+        The herbarium is hosted by MeiseBG. Based on the Academic Heritage assessment of 2012, following collections of the VUB are in scope of DiSSCo: Didactical collections (0.62K), Medical didactical collections (0.78K), Pharmacy and medicine (pm), Pharmacy institute (30), biochemical samples medical (3), Museum Anatomy (pm), Cellular and molecular immunology (2), preserved collections (1K), leaf tissues and DNA (10K).
+
+
+      # img required
+      background: https://dissco-flanders.be/wp-content/uploads/2021/08/vub_logo_digitaal2-1024x456.jpg
+      href: /about
+    - title: KU Leuven
+      description: |      # required
+        KU Leuven (KU Leuven) has a large variety of collections across different biological and geological related disciplines in scope of DiSSCo, as well as scientists acting as curators and data managers.
+
+        Like with the other universities, both classical and smaller lab collections will be considered. KU Leuven will participate in DiSSCo with the following collections: Soil monoliths, lacquer profiles and samples and Legacy soil maps (1.1K), Rocks (10K), Mineralogy (10K), Paleontology (100K), Prehistory (10K), Zoology Museum (6K), agricultural models (10) (inventory is based on the Academic Heritage inventory (2012). The soil samples, Paleontology collection and Zoology Museum are partly inventoried and digitized. The staff of KU Leuven has experience with collection management and digitization.
+      background: https://dissco-flanders.be/wp-content/uploads/2021/08/KU_Leuven_logo.svg

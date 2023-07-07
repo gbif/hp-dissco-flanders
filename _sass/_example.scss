@@ -77,3 +77,62 @@
     }
   }
 }
+
+.faq {
+  details {
+    min-height: 5px;
+    max-width: 700px;
+    padding: 24px 48px 24px 24px;
+    margin: 0 auto;
+    position: relative;
+    border: 1px solid rgba(0,0,0,.1);
+    border-radius: 15px;
+    box-sizing: border-box;
+    transition: all .3s;
+  }
+  
+  details + details {
+    margin-top: 20px;
+  }
+  
+  details[open] {
+    min-height: 50px;
+    background-color: #f6f7f8;
+    box-shadow: 2px 2px 20px rgba(0,0,0,.2);
+    summary {
+      margin-bottom: 25px;
+    }
+  }
+  
+  summary {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  
+  summary:focus {
+    outline: none;
+  }
+  
+  summary:focus::after {
+    content: "";
+    height: 100%;
+    width: 100%;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  summary::-webkit-details-marker {
+    display: none
+  }
+}
+
+.partners {
+  .media-left {
+    width: 150px;
+  }
+}

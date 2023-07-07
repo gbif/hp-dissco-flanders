@@ -1,38 +1,29 @@
 ---
 lang-ref: home
 layout: home
-title: Template headline
+title: DiSSCO Flanders
 description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
-background:  "{{ site.data.images.acalypha_gillespieae.src }}"
+background:  https://cdn.discordapp.com/attachments/1017143593351258192/1126817782273675295/morten100_photo_of_a_black_lion_on_display_in_a_natural_history_a0ef4c83-0a10-4e5b-a722-68f3db694832.png # "{{ site.data.images.acalypha_gillespieae.src }}"
 imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
 height: 90vh
 cta:
-  - text: Institutions
-    href: /institution/search
-    isPrimary: true
   - text: Specimens
     href: /specimen/search
+    isPrimary: true
+  - text: Collections
+    href: "#collections"
   - text: About
     href: /about
 composition:
   - type: heroImage # the block type
-  - type: stats
-    data: examples.stats
+  - type: pageMarkdown
   - type: split
     data: examples.herbariumImageExample
   - type: features
-    data: examples.couldBeAnyName
+    data: examples.collections
 permalink: /
 ---
 
-Edit `/home.md` to change the text.
+## A new world-class Research Infrastructure
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
-
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
+DiSSCo is a new world-class Research Infrastructure for the physical and digital curation of European natural science collections under common management and access policies. To make the collections more visible and used, their data and media should become more Findable, Accessible, Interoperable and Reusable (FAIR). Representing the largest ever formal agreement between natural history museums, botanical gardens, zoos and other collection-holding research institutions and universities, DiSSCo enables the transformation of a fragmented landscape into an integrated knowledge base. DiSSCo Flanders will address biological, anthropological and geological collections, comprising preserved, living, tissues and molecular collections. Smaller lab and orphan collections are fully part of this proposal to guarantee their proper conservation and re-usability. The whole workflow from specimen sampling in the field to their digitization and online publication will be addressed. The vision is to position European natural science collections at the centre of data-driven scientific excellence and innovation in biodiversity and environmental research, climate change, food security, health and the bioeconomy.

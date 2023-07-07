@@ -55,13 +55,13 @@ privacy:
 algae:
   rootLang: en
   # latestPostLimit: 2
-  logo: https://dissco-flanders.be/wp-content/uploads/2021/09/dissco-3-scaled.jpg  # Logo in navbar, will be displayed with 28px height
+  logo: /assets/images/logo.png   # Logo in navbar, will be displayed with 28px height
   # logoAndTitle: false           # include the title next to the logo
   archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
   style:
     # square: false               # Should corners be square or rounded
     colors:
-      primary: "#fa5e97"          # Primary color of your brand. Use HEX code. Used for buttons and links
+      primary: "#e7b635"          # Primary color of your brand. Use HEX code. Used for buttons and links
       # links: "#fa5e97"          # What color should links have. Use a HEX code. DEfault is primary color. 
     coloredHeadlineLinks: false   # If a headline is a link, then use the link color. Default is true. 
   navbar:                         # RELATED TO NAVIGATION BAR
@@ -106,3 +106,11 @@ defaults:
     values:
       layout: "post"
       permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+  - scope:
+      path: "nl/" # For anything in the "nl" folder the default is to set the lang frontMatter property to "nl"
+    values:
+      lang: nl
+  - scope:
+      path: "_posts/nl/" # For anything in the "nl" folder the default is to set the lang frontMatter property to "nl"
+    values:
+      lang: nl

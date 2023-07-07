@@ -1,15 +1,15 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: About
-  href: /about
-- text: Specimens
-  href: /specimen/search
+- text: Over
+  href: /nl/over
+- text: Exemplaren
+  href: /nl/exemplaren/zoekopdracht
 - text: Partners
-  href: /partners
-- text: Literature
-  href: /literature/search
-- text: News and events
-  href: /news
+  href: /nl/partners
+- text: Literatuur
+  href: /nl/literatuur/zoekopdracht
+- text: Nieuws
+  href: /nl/nieuws
 - text: Example pages
   menu: # Dropdown menu (one level deep only)
   - text: Simple
