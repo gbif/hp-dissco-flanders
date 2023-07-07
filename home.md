@@ -4,7 +4,7 @@ layout: home
 title: DiSSCO Flanders
 description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
 background:  https://cdn.discordapp.com/attachments/1017143593351258192/1126817782273675295/morten100_photo_of_a_black_lion_on_display_in_a_natural_history_a0ef4c83-0a10-4e5b-a722-68f3db694832.png # "{{ site.data.images.acalypha_gillespieae.src }}"
-imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
+imageLicense: None in this case, but normally it would go here
 height: 90vh
 cta:
   - text: Specimens
