@@ -19,6 +19,9 @@ var siteConfig = {
       route: '/specimen/search'
     },
     literatureSearch: {
+    },
+    collectionSearch: {
+      disabled: true
     }
   },
   literature: {
