@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: DiSSCO Vlaanderen
 description: Kleinere zaagzeeën die eigen zijn, kunnen niet aardig zijn. Ook voor iedereen die daar sterren geeft, steekt men zelf zaad op dat heerschappij geeft van mindere van mindere, waar hun geest wordt verdeeld, zie, ze zijn gras dat open wordt genoemd.
-background:  https://cdn.discordapp.com/attachments/1017143593351258192/1126817782273675295/morten100_photo_of_a_black_lion_on_display_in_a_natural_history_a0ef4c83-0a10-4e5b-a722-68f3db694832.png # "{{ site.data.images.acalypha_gillespieae.src }}"
+background: /assets/images/placeholders/black_lion.png
 imageLicense: None in this case, but normally it would go here
 height: 90vh
 cta:
