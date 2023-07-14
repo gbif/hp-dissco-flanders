@@ -4,8 +4,7 @@ layout: heroImage
 klass: faq
 title: About
 description: |
-  Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-  flavusque omnibus, virginis socerque sparsos vidimus eundem.
+  Welcome to the science collections! This portal aims to make all digitized collections easily accessible, fostering a collaborative environment for research and innovation. 
 background: "{{ site.data.images.acalypha_gillespieae.src }}"
 imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
 height: 60vh
