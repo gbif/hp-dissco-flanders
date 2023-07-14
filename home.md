@@ -1,8 +1,8 @@
 ---
 lang-ref: home
 layout: home
-title: DiSSCO Flanders
-description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
+title: Virtual Science Collections of Flanders
+description: Explore the extensive collections of digitized specimens from botanical gardens, arboreta, herbariums, and more, representing diverse locations across Belgium.  
 background: /assets/images/placeholders/black_lion.png
 imageLicense: None in this case, but normally it would go here
 height: 90vh
