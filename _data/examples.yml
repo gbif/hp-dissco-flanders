@@ -97,3 +97,13 @@ partners:
 
         Like with the other universities, both classical and smaller lab collections will be considered. KU Leuven will participate in DiSSCo with the following collections: Soil monoliths, lacquer profiles and samples and Legacy soil maps (1.1K), Rocks (10K), Mineralogy (10K), Paleontology (100K), Prehistory (10K), Zoology Museum (6K), agricultural models (10) (inventory is based on the Academic Heritage inventory (2012). The soil samples, Paleontology collection and Zoology Museum are partly inventoried and digitized. The staff of KU Leuven has experience with collection management and digitization.
       background: https://dissco-flanders.be/wp-content/uploads/2021/08/KU_Leuven_logo.svg
+    - title: Research Institute for Nature and Forests
+      description: |      # required
+        Research Institute for Nature and Forest (INBO) is the Flemish research and knowledge centre for nature and its sustainable management and use.
+
+        INBO conducts research and supplies knowledge to policy makers and stakeholders. Through its scientific research, INBO supports all agencies in the Flemish government dealing with open space, as well as organisations involved in nature conservation, forestry, agriculture, hunting and fishery.
+
+        INBO publishes its scientific results as open data for international reporting. It participates in several international research networks including LTER, ALTER-Net and LifeWatch. INBO will notably act as liaison between the biodiversity research field and collection data.
+
+        Furthermore INBO houses a living collection of native trees and shrubs from Belgium, a soil sample archive (15K) that will enrich the Earth Science collections within DiSSCo, and a DNA sample collection including material from rare species of high conservation priority in Europe and Flanders. Staff of INBO are experts in Biodiversity Informatics and a number of employees of the Belgium Biodiversity Platform, acting as the country’s GBIF node, are stationed there.
+      background: https://dissco-flanders.be/wp-content/uploads/2021/08/logoINBO.png
