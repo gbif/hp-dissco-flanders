@@ -73,7 +73,7 @@ herbariumImageExample:
 
 
 partners:
-  title: "Flemish participating partners"
+  - title: "Flemish participating partners"
   description: |
     Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
     flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
@@ -108,7 +108,7 @@ partners:
         Furthermore INBO houses a living collection of native trees and shrubs from Belgium, a soil sample archive (15K) that will enrich the Earth Science collections within DiSSCo, and a DNA sample collection including material from rare species of high conservation priority in Europe and Flanders. Staff of INBO are experts in Biodiversity Informatics and a number of employees of the Belgium Biodiversity Platform, acting as the country’s GBIF node, are stationed there.
       background: https://dissco-flanders.be/wp-content/uploads/2021/08/logoINBO.png
 
-  title: "Associated Belgian collections"
+  - title: "Associated Belgian collections"
   description: |
     Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
     flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
