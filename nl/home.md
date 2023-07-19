@@ -4,7 +4,7 @@ layout: home
 title: Virtuele Wetenschapscollecties van Vlaanderen 
 description: Ontdek de uitgebreide collecties van gedigitaliseerde specimens van botanische tuinen, arboreta, herbaria en meer. 
 background: /assets/images/placeholders/GUM_CHAOS_Foto_Martin_Corlazzoli.jpg
-imageLicense: None in this case, but normally it would go here
+imageLicense: Photo by Martin Corlazzoli
 height: 90vh
 cta:
   - text: Exemplaren
