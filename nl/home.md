@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: Virtuele Wetenschapscollecties van Vlaanderen 
 description: Ontdek de uitgebreide collecties van gedigitaliseerde specimens van botanische tuinen, arboreta, herbaria en meer. 
-background: /assets/images/placeholders/black_lion.png
+background: /assets/images/placeholders/GUM_CHAOS_Foto_Martin_Corlazzoli.jpg
 imageLicense: None in this case, but normally it would go here
 height: 90vh
 cta:
