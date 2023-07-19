@@ -40,11 +40,11 @@ columns:
   
   - name: Contact
     description: | # Can be Markdown
-      Meise Botanic Garden
-      Nieuwelaan 38
-      1860 Meise, Belgium
-      Tel. +32 2 260 09 70
-      Email: dissco.flanders@plantentuinmeise.be
+    - Meise Botanic Garden
+    - Nieuwelaan 38
+    - 1860 Meise, Belgium
+    - Tel. +32 2 260 09 70
+    - Email: dissco.flanders@plantentuinmeise.be
     connectIcons: true
 
   # EXAMPLE
