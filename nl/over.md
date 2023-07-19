@@ -47,17 +47,9 @@ tollebat altius](http://virgineusque.net/est.html).
 
 </details>
 
-## Procris quippe mentior urbes ubi
-
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
-
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
+## Distrubuted System of Scientific Collections - Vlaanderen
+[DiSSCo](https://dissco-flanders.be) is een nieuwe onderzoeksinfrastructuur van wereldklasse voor het fysiek en digitaal beheren van Europese natuurwetenschappelijke collecties met een overkoepelend management- en toegangsbeleid. Om de collecties beter zichtbaar en bruikbaar te maken, moeten de bijbehorende gegevens en media beter vindbaar, toegankelijk, uitwisselbaar en herbruikbaar (FAIR) worden. DiSSCo vertegenwoordigt de grootste formele overeenkomst ooit tussen natuurhistorische musea, botanische tuinen, dierentuinen, universiteiten en andere instituten met collecties, en maakt het mogelijk een gefragmenteerd landschap om te vormen tot een geïntegreerde kennisbasis. DiSSCo Vlaanderen richt zich op biologische, antropologische en geologische collecties, bestaande uit geconserveerde, levende, moleculaire en weefselcollecties. Kleinere laboratorium- en verweesde collecties maken volledig deel uit van deze aanvraag om ook hun juiste conservatie en herbruikbaarheid te garanderen. De hele workflow, van het bemonsteren van specimens in het veld tot hun digitalisering en online publicatie voor hergebruik van hun digitale informatie, zal aan bod komen met het oog op degelijk collectiebeheer. De visie is om Europese natuurwetenschappelijke collecties een centrale plaats te geven in datagestuurde wetenschappelijke excellentie
+en innovatie op het gebied van biodiversiteits- en milieuonderzoek, klimaatverandering, voedselzekerheid, gezondheid en de bio-economie.
 
 ## Quam ex te videt
 
