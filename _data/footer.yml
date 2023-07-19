@@ -5,14 +5,38 @@
 columns:
   - name: Partners
     links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
-
+    - text: Meise Botanic Garden 
+      href: https://www.plantentuinmeise.be/en
+    - text: Vrije Universiteit Brussel
+      href: https://www.vub.be/en
+    - text: KU Leuven
+      href: https://www.kuleuven.be/english/kuleuven/
+    - text: Ghent University
+      href: https://www.ugent.be/en
+    - text: University of Antwerp
+      href: https://www.uantwerpen.be/en/
+    - text: Institute for Agricultural and Fisheries Research
+      href: https://ilvo.vlaanderen.be/en
+    - text: Flanders Marine Institute
+      href: https://www.vliz.be/en
+    - text: Royal Zoological Society of Antwerp
+      href: https://www.zooantwerpen.be/en/antwerp-zoo-society/
+    - text: Research Institute Nature and Forest
+      href: https://www.vlaanderen.be/inbo/en-gb/homepage/
+    - text: Vereniging van Botanische Tuinen en Arboreta
+      href: https://www.botanischetuinen.be/en/association
+    - text: Royal Museum for Central Africa
+      href: https://www.africamuseum.be/en
+    - text: Université libre de Bruxelles
+      href: https://www.ulb.be/en
+    - text: Université de Namur
+      href: https://www.unamur.be/en
+    - text: Royal Belgian Institute of Natural Sciences
+      href: https://www.naturalsciences.be/en/museum/home
+    
   - name: Code
     description: | # Can be Markdown
-      This project is open source. See `_data/footer.yml` to customize the footer.
+      This project is open source. See our [GitHub](https://github.com/gbif/hp-dissco-flanders) page
   
   - name: Contact
     description: | # Can be Markdown
