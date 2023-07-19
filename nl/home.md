@@ -1,8 +1,8 @@
 ---
 lang-ref: home
 layout: home
-title: DiSSCO Vlaanderen
-description: Kleinere zaagzeeën die eigen zijn, kunnen niet aardig zijn. Ook voor iedereen die daar sterren geeft, steekt men zelf zaad op dat heerschappij geeft van mindere van mindere, waar hun geest wordt verdeeld, zie, ze zijn gras dat open wordt genoemd.
+title: Virtuele Wetenschapscollecties van Vlaanderen 
+description: Ontdek de uitgebreide collecties van gedigitaliseerde specimens van botanische tuinen, arboreta, herbaria en meer. 
 background: /assets/images/placeholders/black_lion.png
 imageLicense: None in this case, but normally it would go here
 height: 90vh
