@@ -5,23 +5,47 @@
 columns:
   - name: Partners in NL
     links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
-
+    - text: Agentschap Plantentuin Meise
+      href: https://www.plantentuinmeise.be
+    - text: Vrije Universiteit Brussel
+      href: https://www.vub.be
+    - text: KU Leuven
+      href: https://www.kuleuven.be
+    - text: Ghent University
+      href: https://www.ugent.be
+    - text: University of Antwerp
+      href: https://www.uantwerpen.be
+    - text: Instituut voor Landbouw-, Visserij- en Voedingsonderzoek
+      href: https://ilvo.vlaanderen.be/nl/
+    - text: Vlaams Instituut voor de Zee
+      href: https://www.vliz.be/nl
+    - text: Royal Zoological Society of Antwerp
+      href: https://www.zooantwerpen.be/nl/
+    - text: Instituut voor Natuur- en Bosonderzoek
+      href: https://www.vlaanderen.be/inbo/home/
+    - text: Vereniging van Botanische Tuinen en Arboreta
+      href: https://www.botanischetuinen.be/en/association
+    - text: Afrika Museum
+      href: https://www.africamuseum.be/nl
+    - text: Université libre de Bruxelles
+      href: https://www.ulb.be/en
+    - text: Université de Namur
+      href: https://www.unamur.be
+    - text: Koninklijk Belgisch Instutuut voor Natuurwetenschappen
+      href: https://www.naturalsciences.be/nl/museum/home
+    
   - name: Code
     description: | # Can be Markdown
-      This project is open source. See `_data/footer.yml` to customize the footer.
+      Dit project is open source. Zie onze [GitHub](https://github.com/gbif/hp-dissco-flanders) pagina
   
   - name: Contact
     description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
+      Plantentuin Meise
+      Nieuwelaan 38
+      1860 Meise, Belgium
+      Tel. +32 2 260 09 70
+      Email: dissco.flanders@plantentuinmeise.be
     connectIcons: true
-
   # EXAMPLE
   #- name: Group name
   #  description: |
