@@ -3,8 +3,8 @@ lang-ref: home
 layout: home
 title: Virtual Science Collections of Flanders
 description: Explore the extensive collections of digitized specimens from botanical gardens, arboreta, herbariums, and more, representing diverse locations across Belgium.  
-background: /assets/images/placeholders/DSC01625_Martin_Corlazzoli.jpg
-imageLicense: None in this case, but normally it would go here
+background: /assets/images/placeholders/GUM_CHAOS_Foto_Martin_Corlazzoli.jpg
+imageLicense: Photo by Martin Corlazzoli
 height: 90vh
 cta:
   - text: Specimens
