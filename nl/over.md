@@ -4,7 +4,7 @@ layout: heroImage
 klass: faq
 title: About
 description: |
-Welkom bij de wetenschapscollecties! Dit portaal heeft als doel om alle gedigitaliseerde collecties gemakkelijk toegankelijk te maken en samenwerking te bevorderen voor onderzoek en innovatie. 
+  Welkom bij de wetenschapscollecties! Dit portaal heeft als doel om alle gedigitaliseerde collecties gemakkelijk toegankelijk te maken en samenwerking te bevorderen voor onderzoek en innovatie. 
 background: "{{ site.data.images.acalypha_gillespieae.src }}"
 imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
 height: 60vh
