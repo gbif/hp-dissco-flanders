@@ -82,32 +82,24 @@ partners:
     - title: Vrije Universiteit Brussel # required
       description: |      # required
         Vrije Universiteit Brussel (VUB) has relatively small collections and will also address its small lab or orphan collections within DiSSCo.
-
         Aware of the importance of collections, but knowing that the staff member in charge will retire soon and facing a rather low probability of a replacement, the VUB wishes to do an as complete as possible inventory and within DiSSCo decide on the workflow on how to deposit most of the collections elsewhere for safekeeping and better accessibility for scientific reuse, rather than invest in local repositories.
-
         The herbarium is hosted by MeiseBG. Based on the Academic Heritage assessment of 2012, following collections of the VUB are in scope of DiSSCo: Didactical collections (0.62K), Medical didactical collections (0.78K), Pharmacy and medicine (pm), Pharmacy institute (30), biochemical samples medical (3), Museum Anatomy (pm), Cellular and molecular immunology (2), preserved collections (1K), leaf tissues and DNA (10K).
-
-
       # img required
       background: https://dissco-flanders.be/wp-content/uploads/2021/08/vub_logo_digitaal2-1024x456.jpg
       href: /about
     - title: KU Leuven
       description: |      # required
         KU Leuven has a large variety of collections across different biological and geological related disciplines in scope of DiSSCo, as well as scientists acting as curators and data managers.
-
         Like with the other universities, both classical and smaller lab collections will be considered. KU Leuven will participate in DiSSCo with the following collections: Soil monoliths, lacquer profiles and samples and Legacy soil maps (1.1K), Rocks (10K), Mineralogy (10K), Paleontology (100K), Prehistory (10K), Zoology Museum (6K), agricultural models (10) (inventory is based on the Academic Heritage inventory (2012). The soil samples, Paleontology collection and Zoology Museum are partly inventoried and digitized. The staff of KU Leuven has experience with collection management and digitization.
       background: https://dissco-flanders.be/wp-content/uploads/2021/08/KU_Leuven_logo.svg
     - title: Research Institute for Nature and Forests
       description: |      # required
         Research Institute for Nature and Forest (INBO) is the Flemish research and knowledge centre for nature and its sustainable management and use.
-
         INBO conducts research and supplies knowledge to policy makers and stakeholders. Through its scientific research, INBO supports all agencies in the Flemish government dealing with open space, as well as organisations involved in nature conservation, forestry, agriculture, hunting and fishery.
-
         INBO publishes its scientific results as open data for international reporting. It participates in several international research networks including LTER, ALTER-Net and LifeWatch. INBO will notably act as liaison between the biodiversity research field and collection data.
-
         Furthermore INBO houses a living collection of native trees and shrubs from Belgium, a soil sample archive (15K) that will enrich the Earth Science collections within DiSSCo, and a DNA sample collection including material from rare species of high conservation priority in Europe and Flanders. Staff of INBO are experts in Biodiversity Informatics and a number of employees of the Belgium Biodiversity Platform, acting as the country’s GBIF node, are stationed there.
       background: https://dissco-flanders.be/wp-content/uploads/2021/08/logoINBO.png
-     - title: Ghent University
+    - title: Ghent University
       description: |      # required
         Ghent University (UGent) houses several institutional collections, including the zoological museum, a botanical garden and herbarium, as well as several smaller collections linked to biological and geological labs. 
         In March 2020, UGent will open the new Ghent University Museum (GUM), which will showcase their unique collections to the wider public and engage in increased educational purposes. The staff of UGent is experienced in collection management and will disclose its collections to DiSSCo as an important contributor. Beside the known and inventoried collections, the smaller and potentially orphan lab collections will also be part of the project, like for example biological, medical and histological slide collections. Based on the Academic Heritage inventory (2012), UGent has as a rough estimation of the following collection items in the scope of DiSSCo : rocks and minerals (50K), Museum Morphology (7K), Veterinary collections (?), Animal Pathologies (1K), Pharmacy (0.46K), Botanical Garden including the herbarium (0.41Mio), Microorganisms (75K), Museum Zoology (50K), Museum History of Medicine (?).
