@@ -75,9 +75,7 @@ herbariumImageExample:
 partners:
   title: "Flemish participating partners"
   description: |
-    Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-    flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-    pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+  
   features:
     - title: Vrije Universiteit Brussel # required
       description: |      # required
@@ -104,4 +102,8 @@ partners:
         Ghent University (UGent) houses several institutional collections, including the zoological museum, a botanical garden and herbarium, as well as several smaller collections linked to biological and geological labs. 
         In March 2020, UGent will open the new Ghent University Museum (GUM), which will showcase their unique collections to the wider public and engage in increased educational purposes. The staff of UGent is experienced in collection management and will disclose its collections to DiSSCo as an important contributor. Beside the known and inventoried collections, the smaller and potentially orphan lab collections will also be part of the project, like for example biological, medical and histological slide collections. Based on the Academic Heritage inventory (2012), UGent has as a rough estimation of the following collection items in the scope of DiSSCo : rocks and minerals (50K), Museum Morphology (7K), Veterinary collections (?), Animal Pathologies (1K), Pharmacy (0.46K), Botanical Garden including the herbarium (0.41Mio), Microorganisms (75K), Museum Zoology (50K), Museum History of Medicine (?).
       background: https://dissco-flanders.be/wp-content/uploads/2021/08/logo-26.png
+    - title: University of Antwerp 
+      description: |      # required
+        University of Antwerp (UA) has several collections in the scope of DiSSCo. They will also, next to the institutional collections, address lab collections in an updated inventory and assessment for DiSSCo. Based on the Academic Heritage inventory (2012), the following collections are in the scope of DISSCo : Veterinary (3K), Anatomy (0.7K), Pathologies (0.2K), Zoology (12K), Herbarium (4,7K, hosted in MeiseBG), mineral and rocks (0.1K), Mouse and Rats traps (0.3K), Educational biology (70), Preparations Biology (9K), Crystal models (50), Natural History (50).
+      background: 
       
