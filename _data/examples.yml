@@ -73,7 +73,7 @@ herbariumImageExample:
 
 
 partners:
-  title: "Flemish participating partners"
+  title: "Participating partners"
   description: |
   
   features:
@@ -138,7 +138,11 @@ partners:
         Based on the information available for the gardens not listed above as part of the other consortium members, up to 25K herbarium specimens are present. The living collections are expressed in different metrics: number of individual plants (especially when counting trees), number of taxa or number of accessions. In the early 2000 a federal project called PlantCol, coordinated by MeiseBG, set the first steps to federate these valuable living botanic collections in Belgium under one portal. DiSSCo is the occasion to update this portal to modern standards and mobilize the data using standard metrics.
       background: /assets/images/placeholders/vbta logo.png
       href: https://www.botanischetuinen.be/en/association
-      
-    title: "Belgian entities"
-    description: |
+    - title: The Royal Belgian Institute of Natural Sciences
+      description: |      # required
+        The Royal Belgian Institute of Natural Sciences (RBINS) houses exceptionally rich and diverse zoological, palaeoanthropological, mineralogical and prehistoric collections amounting to 38,000,000 specimens – this includes 200,000 types and illustrated specimens, and 100,000 primary types. This places RBINS in the world top 10 collections in terms of volume of specimens stored and available for research. RBINS is also undertaking an ambitious digitisation programme.
+        Staff at RBINS have developed several pipelines allowing high resolution digitisation of specimens and associated documentation which has made it possible to encode all the data on collections of any taxonomic group. 595,000 digitised specimens are now reported on GBIF. RBINS is a multidisciplinary institution with scientific staff specialising in biology, palaeontology, geology, oceanography, anthropology, prehistory, archaeobiology, geography, physics, bio-engineering and mathematics. 74 staff members are dedicated fully to the collections with worldwide coverage and including terrestrial, freshwater and marine ecosystems. The institution is internationally renowned for collections management training in addition to other disciplines, and is currently supervising 64 PhD and 52 MSc students. 
+        The RBINS Laboratory for Molecular Systematics (LMS) is fully equipped providing a dynamic working environment for researchers using various DNA markers for molecular research.
+      background: /assets/images/placeholders/logo_rbins-1536x481.gif
+      href: https://www.naturalsciences.be/en/museum/home
       
