@@ -145,4 +145,22 @@ partners:
         The RBINS Laboratory for Molecular Systematics (LMS) is fully equipped providing a dynamic working environment for researchers using various DNA markers for molecular research.
       background: /assets/images/placeholders/logo_rbins-1536x481.gif
       href: https://www.naturalsciences.be/en/museum/home
+    - title: Royal Museum for Central Africa
+      description: |      # required
+        The Royal Museum for Central Africa (RMCA) is a multidisciplinary institution focusing on natural and cultural heritage, knowledge transfer, and research. It holds one of the largest world collections on Central Africa, offering unique reference material. The majority of specimens originate from a relatively poorly studied megadiversity belt in the equatorial region of Africa. The Biology and Geology departments contain around 10 million animal specimens, 60,000 wood specimens, 16,000 minerals, 300,000 rocks, and 21,500 fossils. 
+        Extensive archives include field notes, books, maps and aerial photography containing valuable complementary information. Researchers carry out studies in the natural and urban environments, including historical socio-economic aspects. The main facilities are a DNA lab for pre-processing sequencing, genotyping, a wood anatomy laboratory, photo stacking and 3D digitisation systems, a scanning electron Microscope, a geological thin section laboratory, an extensive cartography library, remote sensing equipment and advanced spectroscopy facilities.
+      background: /assets/images/placeholders/MRAC_logo.jpg
+      href: https://www.africamuseum.be/en
+    - title: Université libre de Bruxelles
+      description: |      # required
+        Université libre de Bruxelles (Free University of Brussels, ULB) is a French-speaking private research university in Brussels. Its foundation goes back to 1834. Currently there are about 3600 researchers and 2000 PhD students active in the ULB. It currently participates in DiSSCo with is herbarium which houses 250,000 specimens, including about 600 type specimens. The core of the collection is about vascular plants from Central Africa, notably from Katanga with the flora from metal rich soils, the flora of Atlantic equatorial Africa. 
+        Highlights are about 6000 Orchids from tropical Africa including tissue samples for DNA extractions for about 5000 specimens. The University also plays an important role in capacity building with for example the ERASMUS Mundus Master in Tropical Biodiversity and Ecosystems TROPIMUNDO. Besides the herbarium, the ULB also harbors other scientific collections. In the framework of DiSSCo a detailed inventory will be made with prioritisation for conservation, digitisation, publication and re-use.
+      background: /assets/images/placeholders/ulb logo.jpg
+      href: https://www.ulb.be/en
+    - title: Université de Namur
+      description: |      # required
+        The University of Namur (UNamur), founded in 1831 in Namur, is a Jesuit, Catholic private university in the French Community of Belgium. Both teaching and research are carried out. The main campus is located at the heart of the city of Namur, the capital of Wallonia. The university employs more than 1000 researchers with about 6500 students a year. UNamur currently participates in DiSSCo with its herbarium of about 70 000 specimens of Phanerogams, Pteridophytes and Bryophytes. 
+        It is a small but very valuable, historical herbarium and the most complete and well-preserved collection of Brendel botanical models are among the highlights. Since 2018 the collection is hosted within the Library of the University where it has become accessible not only for research but also for outreach and capacity building. UNamur hosts also other important scientific collections, which will be inventorised and addressed in the framework of DiSSCo.
+      background: /assets/images/placeholders/uni NAmur logo.jpg
+      href: https://www.unamur.be/en
       
