@@ -84,12 +84,13 @@ partners:
         The herbarium is hosted by MeiseBG. Based on the Academic Heritage assessment of 2012, following collections of the VUB are in scope of DiSSCo: Didactical collections (0.62K), Medical didactical collections (0.78K), Pharmacy and medicine (pm), Pharmacy institute (30), biochemical samples medical (3), Museum Anatomy (pm), Cellular and molecular immunology (2), preserved collections (1K), leaf tissues and DNA (10K).
       # img required
       background: https://dissco-flanders.be/wp-content/uploads/2021/08/vub_logo_digitaal2-1024x456.jpg
-      href: /about
+      href: https://www.vub.be/en
     - title: KU Leuven
       description: |      # required
         KU Leuven has a large variety of collections across different biological and geological related disciplines in scope of DiSSCo, as well as scientists acting as curators and data managers.
         Like with the other universities, both classical and smaller lab collections will be considered. KU Leuven will participate in DiSSCo with the following collections: Soil monoliths, lacquer profiles and samples and Legacy soil maps (1.1K), Rocks (10K), Mineralogy (10K), Paleontology (100K), Prehistory (10K), Zoology Museum (6K), agricultural models (10) (inventory is based on the Academic Heritage inventory (2012). The soil samples, Paleontology collection and Zoology Museum are partly inventoried and digitized. The staff of KU Leuven has experience with collection management and digitization.
-      background: https://dissco-flanders.be/wp-content/uploads/2021/08/KU_Leuven_logo.svg
+      background: https://dissco-flanders.be/wp-content/uploads/2021/08/KU_Leuven_logo.sv
+      href: https://www.kuleuven.be/english/kuleuven/
     - title: Research Institute for Nature and Forests
       description: |      # required
         Research Institute for Nature and Forest (INBO) is the Flemish research and knowledge centre for nature and its sustainable management and use.
