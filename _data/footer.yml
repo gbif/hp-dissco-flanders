@@ -46,10 +46,9 @@ columns:
       Tel. +32 2 260 09 70
       Email: dissco.flanders@plantentuinmeise.be
     connectIcons: true
-    
-   - name: 
+    - name: 
     description: | # Can be Markdown
-       The Research Foundation - Flanders (FWO) facilitated the content creation of this portal as part of the Flemish contribution to the DiSSCo Research Infrastructure under grant n° I001721N (DiSSCo Flanders project).
+      The Research Foundation - Flanders (FWO) facilitated the content creation of this portal as part of the Flemish contribution to the DiSSCo Research Infrastructure under grant n° I001721N (DiSSCo Flanders project).
 
   # EXAMPLE
   #- name: Group name
