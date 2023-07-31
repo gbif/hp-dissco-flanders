@@ -3,7 +3,7 @@ lang-ref: partners
 layout: compose
 klass: partners
 title: Partners
-description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
+description: 
 background:  "{{ site.data.images.puccinia.src }}"
 imageLicense: "{{ site.data.images.puccinia.caption }}"
 height: 60vh
