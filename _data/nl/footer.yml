@@ -49,9 +49,7 @@ columns:
     
   - name: Funding
     description: | # Can be Markdown
-    De Research Foundation - Flanders (FWO) heeft de inhoud van dit portaal gefaciliteerd als onderdeel van de Vlaamse bijdrage aan de DiSSCo Research Infrastructure onder subsidienummer I001721N (DiSSCo Flanders-project).
-
-
+      De Research Foundation - Flanders (FWO) heeft de inhoud van dit portaal gefaciliteerd als onderdeel van de Vlaamse bijdrage aan de DiSSCo Research Infrastructure onder subsidienummer I001721N (DiSSCo Flanders-project).
   # EXAMPLE
   #- name: Group name
   #  description: |
