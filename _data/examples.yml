@@ -19,7 +19,7 @@ stats:
 collections:
   title: Collections <span id="collections"></span>
   description: |
-    For now this is just a hardcoded list of collections. But if this became more dynamic, then it could be made so that they were generated from APIs
+    
   features:
     - title: Meise Botanic Garden
       description: |      # required
