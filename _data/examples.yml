@@ -77,6 +77,13 @@ partners:
   description: |
   
   features:
+     - title: Meise Botanic Garden
+      description: |      # required
+        Meise Botanic Garden (MeiseBG): Besides acting as coordinator for Flanders and being the relay for FWB and RW, the institution contributes with their knowhow in both physical and digital collection management. Meise BG hosts about 4 million preserved collections items among which about 3.5 million herbarium sheets and 500 000 fungi collections including lichens. 
+        The outdoor (92 ha) and indoor living collections comprise over 25000 accessions including important crop wild relatives from coffee and bananas with high economical importance. The seed bank of the Garden conserves more than 6600 accessions notably of endangered Belgian flora, the endemics of the Copper Hills in Katanga, and a unique collections of wild beans and bananas. 
+        There are close to 10 000 DNA extracts stored in relation to our molecular activities. MeiseBG is busy mass digitizing its entire preserved collection of herbarium sheets which progress can be consulted here. The public can contribute to mobilise more data about our collections via our crowdsourcing platform. MeiseBG staff is expert in Biodiversity Information Standards and active member of TDWG. 
+      background: /assets/images/placeholders/Logo_MeiseBotanicGarden_rgb-1536x794.jpg
+      href: https://www.plantentuinmeise.be/en
     - title: Vrije Universiteit Brussel # required
       description: |      # required
         Vrije Universiteit Brussel (VUB) has relatively small collections and will also address its small lab or orphan collections within DiSSCo.
