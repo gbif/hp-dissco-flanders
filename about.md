@@ -57,15 +57,6 @@ orphan collections are fully part of this proposal to guarantee their proper con
 the field to their digitization and online publication will be addressed. The vision is to position European natural science collections at the centre of
 data-driven scientific excellence and innovation in biodiversity and environmental research, climate change, food security, health and the bioeconomy.
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
-
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
 
 ## Quam ex te videt
 
