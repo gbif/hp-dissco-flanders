@@ -1,6 +1,5 @@
 ---
 lang-ref: partners
-lang: nl
 layout: compose
 klass: partners
 title: Partners
@@ -11,7 +10,7 @@ height: 60vh
 composition:
   - type: heroImage # the block type
   - type: media
-    data: /nl/examples.partners
+    data: nl.examples.partners
 ---
 
 Edit `/home.md` to change the text.
