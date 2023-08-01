@@ -1,7 +1,8 @@
 ---
 lang-ref: home
 layout: home
-title: Virtual Science Collections of Flanders
+title: <p>Virtual Science Collections<br>
+of Flanders</p>
 description: Explore the extensive collections of digitized specimens from botanical gardens, arboreta, herbariums, and more, representing diverse locations across Belgium.  
 background: /assets/images/placeholders/GUM_CHAOS_Foto_Martin_Corlazzoli.jpg
 imageLicense: Photo by Martin Corlazzoli
