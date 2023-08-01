@@ -1,5 +1,6 @@
 ---
 lang-ref: partners
+lang:nl
 layout: compose
 klass: partners
 title: Partners
