@@ -16,7 +16,7 @@ composition:
   - type: heroImage # the block type
   - type: pageMarkdown
   - type: split
-    data: /nl/examples.herbariumImageExample
+    data: nl.examples.herbariumImageExample
 permalink: /nl
 ---
 
