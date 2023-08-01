@@ -10,7 +10,7 @@ height: 60vh
 composition:
   - type: heroImage # the block type
   - type: media
-    data: examples.partners
+    data: /nl/examples.partners
 ---
 
 Edit `/home.md` to change the text.
