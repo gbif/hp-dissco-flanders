@@ -21,11 +21,10 @@ herbariumImageExample:
   reverse: false
   title: "A new world-class Research Infrastructure"
   description: |      # required
-    [DiSSCo](https://www.dissco.eu/) is a new world-class Research Infrastructure for the physical and digital curation of European natural science collections under common management and access policies. 
-    To make the collections more visible and used, their data and media should become more Findable, Accessible, Interoperable and Reusable (**FAIR**). 
-    Representing the largest ever formal agreement between natural history museums, botanical gardens, zoos and other collection-holding research institutions and universities, DiSSCo enables the transformation of a fragmented landscape into an integrated knowledge base. 
-    DiSSCo Flanders will address biological, anthropological and geological collections, comprising preserved, living, tissues and molecular collections. Smaller lab and orphan collections are fully part of this proposal to guarantee their proper conservation and re-usability. 
-    The whole workflow from specimen sampling in the field to their digitization and online publication will be addressed. The vision is to position European natural science collections at the centre of data-driven scientific excellence and innovation in biodiversity and environmental research, climate change, food security, health and the bioeconomy.
+    [DiSSCo](https://www.dissco.eu/) is een nieuwe onderzoeksinfrastructuur van wereldklasse voor het fysiek en digitaal beheren van Europese natuurwetenschappelijke collecties met een overkoepelend management- en toegangsbeleid. 
+    Om de collecties beter zichtbaar en bruikbaar te maken, moeten de bijbehorende gegevens en media beter vindbaar, toegankelijk, uitwisselbaar en herbruikbaar (**FAIR**) worden. DiSSCo vertegenwoordigt de grootste formele overeenkomst ooit tussen natuurhistorische musea, botanische tuinen, dierentuinen, universiteiten en andere instituten met collecties, en maakt het mogelijk een gefragmenteerd landschap om te vormen tot een geïntegreerde kennisbasis. 
+    DiSSCo Vlaanderen richt zich op biologische, antropologische en geologische collecties, bestaande uit geconserveerde, levende, moleculaire en weefselcollecties. Kleinere laboratorium- en verweesde collecties maken volledig deel uit van deze aanvraag om ook hun juiste conservatie en herbruikbaarheid te garanderen. 
+    De hele workflow, van het bemonsteren van specimens in het veld tot hun digitalisering en online publicatie voor hergebruik van hun digitale informatie, zal aan bod komen met het oog op degelijk collectiebeheer. De visie is om Europese natuurwetenschappelijke collecties een centrale plaats te geven in datagestuurde wetenschappelijke excellentie en innovatie op het gebied van biodiversiteits- en milieuonderzoek, klimaatverandering, voedselzekerheid, gezondheid en de bio-economie. 
   # img required
   background: /assets/images/placeholders/2_01_WEB_2_DiSSCo_3_herbarium_specimen_BR0000008972118.jpg
   imageLicense: |
