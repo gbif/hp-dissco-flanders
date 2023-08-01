@@ -23,7 +23,9 @@ collections:
   features:
     - title: Meise Botanic Garden
       description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
+        Meise Botanic Garden (MeiseBG) has a history that goes back to 1796. Today, it is an internationally recognized botanic garden in a park of 92 hectares, and a centre of excellence for plant biodiversity research. MeiseBG houses the 15th largest herbarium in the world, holding 4 million preserved specimens, a comprehensive botanical library, a seed bank and a living plant collection with 25,000 accessions of plants from around the world. Research focuses on plant, algal and fungal taxonomy, evolution, biodiversity conservation, ecosystems and ethnobotany.
+        The preserved collections (including the herbarium, wood, carpological, slide and molecular collections) have a global scope, with a focus on Central Africa, Belgium, and Southwestern Europe, with additionally important historic collections from Latin America. Highlights are the private collections of famous 19th botanists such as Henri Van Heurck (diatoms), Carl Von Martius (Flora brasiliensis), Heinrich Gustav von Reichenbach (orchids) and Crépin (wild roses), which form the historic core of the collections. 
+        A wide range of taxonomic groups are covered including: vascular plants, lichens, mosses, liverworts, fungi, myxomycetes, macroalgae, and diatoms. Meise Botanic Garden is dedicated to digitally unlock these precious and unique botanical collections.
       href: /collection/6416a67f-3c3e-495c-8998-568f64249178
       # img required
       background: /assets/images/placeholders/blocks2.png
@@ -31,26 +33,33 @@ collections:
       # categories: [drawings] # optional
     - title: Meise Living Collection
       description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
+        The Botanic Garden holds a living plant collection of more than 25,000 accessions of 17,000 taxa. This material is cultivated for research, conservation and education.
+        This dataset holds information about accessions that are cultivated at the Garden. Data presented concern the scientific name, accession number and determination of specimens currently held in the Garden.
       href: /collection/6416a67f-3c3e-495c-8998-568f64249178
       background: /assets/images/placeholders/blocks2.png
       imageLicense: None for this image, but normally you would provide one here
     - title: Ghent University - Vertebrate collection
       description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
-      href: /collection/6416a67f-3c3e-495c-8998-568f64249178
+        The Ghent University Zoological museum holds a scientific collection of vertebrate and invertebrate specimens and a collection of anatomic preparates. The museum dates from 1817 and the original idea was to curate a didactic collection for educational purposes.
+        Ghent University Zoology Museum curates a vertebrate collection of over 6000 specimen. the vertebrate collection is divided in a "Comparative anatomy collection" of about 2000 specimen. A valuable historic collection of Professor Felix. Plateau and several smaller historic collection. Some specimens were bought or donated by the Antwerp Zoo. 
+        Some of the specimens belonged to animals living in the Ghent zoo which closed in 1905.
+      href: https://www.gbif.org/dataset/0310b080-ec4b-11dc-b73e-b8a03c50a862
       background: /assets/images/placeholders/blocks2.png
       imageLicense: None for this image, but normally you would provide one here
     - title: Ghent University - Insect collection
       description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
-      href: /collection/6416a67f-3c3e-495c-8998-568f64249178
+        The Ghent University Zoological museum holds a scientific collection of vertebrate and invertebrate specimens and a collection of anatomic preparates. The museum dates from 1817 and the original idea was to curate a didactic collection for educational purposes.
+        Ghent University Zoology Museum curates a insect collection of over 17000 specimen. The most important collections in this dataset are: Collection De Riemaecker; Collection Felix Plateau; Collection Hostie.
+      href: https://www.gbif.org/dataset/ce416850-8934-11dc-9962-b8a03c50a862
       background: /assets/images/placeholders/blocks2.png
       imageLicense: None for this image, but normally you would provide one here
     - title: Ghent university - Nematod Collection
       description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
-      href: /collection/6416a67f-3c3e-495c-8998-568f64249178
+        The Ghent University Zoological museum holds a scientific collection of vertebrate and invertebrate specimens and a collection of anatomic preparates. The museum dates from 1817 and the original idea was to curate a didactic collection for educational purposes.
+        Ghent University Zoology Museum curates a nematode type collection of over 4000 slides. Up till now, 3000+ slides are inventoried digitally.
+        The collection contains a substantial amount of holotypes and paratypes.
+        A revision of the collection is needed. The most important collections in this dataset are: Collection De Riemaecker; Collection Felix Plateau; Collection Hostie.
+      href: https://www.gbif.org/dataset/b24d3bd0-e6d9-11dc-8b77-b8a03c50a862
       background: /assets/images/placeholders/blocks2.png
       imageLicense: None for this image, but normally you would provide one here
 
