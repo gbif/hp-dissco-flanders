@@ -10,8 +10,6 @@ cta:
   - text: Specimens
     href: /specimen/search
     isPrimary: true
-  - text: Collections
-    href: "#collections"
   - text: About
     href: /about
 composition:
@@ -19,8 +17,6 @@ composition:
   - type: pageMarkdown
   - type: split
     data: examples.herbariumImageExample
-  - type: features
-    data: examples.collections
 permalink: /
 ---
 ## A new world-class Research Infrastructure
