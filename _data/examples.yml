@@ -73,13 +73,12 @@ herbariumImageExample:
     DiSSCo Flanders will address biological, anthropological and geological collections, comprising preserved, living, tissues and molecular collections. Smaller lab and orphan collections are fully part of this proposal to guarantee their proper conservation and re-usability. 
     The whole workflow from specimen sampling in the field to their digitization and online publication will be addressed. The vision is to position European natural science collections at the centre of data-driven scientific excellence and innovation in biodiversity and environmental research, climate change, food security, health and the bioeconomy.
   # img required
-  background: https://data.nhm.ac.uk/media/d9850154-9e45-426c-8712-d030da3c1c00
+  background: /assets/images/placeholders/2_01_WEB_2_DiSSCo_3_herbarium_specimen_BR0000008972118.jpg
   imageLicense: |
-    *Polyptychodon* Owen, 1841 collected in United Kingdom of Great Britain and Northern Ireland. [See full record](/specimen/search?entity=1057252794&view=TABLE) (licensed under http://creativecommons.org/licenses/by/4.0/)
   href: /about
   cta:
-  - text: Download report
-    href: http://example.com
+  - text: DiSSCo
+    href: https://www.dissco.eu/
     isPrimary: true
 
 
