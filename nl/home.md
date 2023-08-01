@@ -11,7 +11,7 @@ cta:
     href: /nl/exemplaren/zoekopdracht
     isPrimary: true
   - text: Over
-    href: /over
+    href: /nl/over/
 composition:
   - type: heroImage # the block type
   - type: pageMarkdown
