@@ -28,7 +28,7 @@ herbariumImageExample:
   # img required
   background: /assets/images/placeholders/2_01_WEB_2_DiSSCo_3_herbarium_specimen_BR0000008972118.jpg
   imageLicense: |
-  href: /over
+  href: /nl/over
   cta:
   - text: DiSSCo
     href: https://www.dissco.eu/
