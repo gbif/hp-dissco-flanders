@@ -40,7 +40,7 @@ columns:
   
   - name: Contact
     description: | # Can be Markdown
-      Plantentuin Meise  
+      **Plantentuin Meise**    
       Nieuwelaan 38  
       1860 Meise, Belgium  
       Tel. +32 2 260 09 70  
