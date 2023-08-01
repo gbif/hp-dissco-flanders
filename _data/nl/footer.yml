@@ -11,9 +11,9 @@ columns:
       href: https://www.vub.be
     - text: KU Leuven
       href: https://www.kuleuven.be
-    - text: Ghent University
+    - text: Universiteit Gent
       href: https://www.ugent.be
-    - text: University of Antwerp
+    - text: Universiteit Antwerpen
       href: https://www.uantwerpen.be
     - text: Instituut voor Landbouw-, Visserij- en Voedingsonderzoek
       href: https://ilvo.vlaanderen.be/nl/
@@ -40,16 +40,16 @@ columns:
   
   - name: Contact
     description: | # Can be Markdown
-      Plantentuin Meise
-      Nieuwelaan 38
-      1860 Meise, Belgium
-      Tel. +32 2 260 09 70
+      Plantentuin Meise  
+      Nieuwelaan 38  
+      1860 Meise, Belgium  
+      Tel. +32 2 260 09 70  
       Email: dissco.flanders@plantentuinmeise.be
     connectIcons: true
     
   - name: Funding
     description: | # Can be Markdown
-      De Research Foundation - Flanders (FWO) heeft de inhoud van dit portaal gefaciliteerd als onderdeel van de Vlaamse bijdrage aan de DiSSCo Research Infrastructure onder subsidienummer I001721N (DiSSCo Flanders-project).
+      De Research Foundation - Flanders (**FWO**) heeft de inhoud van dit portaal gefaciliteerd als onderdeel van de Vlaamse bijdrage aan de DiSSCo Research Infrastructure onder subsidienummer I001721N (DiSSCo Flanders-project).
   # EXAMPLE
   #- name: Group name
   #  description: |
