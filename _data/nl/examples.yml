@@ -44,16 +44,20 @@ partners:
   features:
     - title: Agentschap Plantentuin Meise
       description: |      # required
-        Meise Botanic Garden (MeiseBG): Besides acting as coordinator for Flanders and being the relay for FWB and RW, the institution contributes with their knowhow in both physical and digital collection management. Meise BG hosts about 4 million preserved collections items among which about 3.5 million herbarium sheets and 500 000 fungi collections including lichens. 
-        The outdoor (92 ha) and indoor living collections comprise over 25000 accessions including important crop wild relatives from coffee and bananas with high economical importance. The seed bank of the Garden conserves more than 6600 accessions notably of endangered Belgian flora, the endemics of the Copper Hills in Katanga, and a unique collections of wild beans and bananas. 
-        There are close to 10 000 DNA extracts stored in relation to our molecular activities. MeiseBG is busy mass digitizing its entire preserved collection of herbarium sheets which progress can be consulted here. The public can contribute to mobilise more data about our collections via our crowdsourcing platform. MeiseBG staff is expert in Biodiversity Information Standards and active member of TDWG. 
+        Agentschap Plantentuin Meise (MeiseBG): Naast het fungeren als coördinator voor Vlaanderen en als relais voor FWB en RW, draagt de instelling bij met hun knowhow in zowel fysiek als digitaal collectiebeheer. .
+        Meise BG herbergt ongeveer 4 miljoen bewaarde collectiestukken, waaronder ongeveer 3,5 miljoen herbariumvellen en 500.000 schimmelcollecties, waaronder korstmossen. De buiten- (92 ha) en binnenlevende collecties omvatten 
+        meer dan 25.000 verwanten, inclusief belangrijke wilde gewasverwanten van koffie en bananen met een hoge economische waarde. De zaadbank van de tuin bewaart meer dan 6600 soorten, met name van bedreigde Belgische flora, 
+        de endemische soorten van de kopergordel in Katanga en een unieke collectie wilde bonen en bananen. Er zijn bijna 10.000 DNA-extracten opgeslagen in verband met onze moleculaire activiteiten. MeiseBG is druk bezig met het 
+        massaal digitaliseren van haar volledige collectie herbariumvellen waarvan de voortgang hier kan worden geraadpleegd. Het publiek kan bijdragen om meer gegevens over onze collecties te mobiliseren via ons crowdsourcing platform. 
+        MeiseBG medewerkers zijn expert in Biodiversity Information Standards en actief lid van TDWG. 
       background: /assets/images/placeholders/Logo_MeiseBotanicGarden_rgb-1536x794.jpg
       href: https://www.plantentuinmeise.be/nl/
     - title: Vrije Universiteit Brussel # required
       description: |      # required
-        Vrije Universiteit Brussel (VUB) has relatively small collections and will also address its small lab or orphan collections within DiSSCo.
-        Aware of the importance of collections, but knowing that the staff member in charge will retire soon and facing a rather low probability of a replacement, the VUB wishes to do an as complete as possible inventory and within DiSSCo decide on the workflow on how to deposit most of the collections elsewhere for safekeeping and better accessibility for scientific reuse, rather than invest in local repositories.
-        The herbarium is hosted by MeiseBG. Based on the Academic Heritage assessment of 2012, following collections of the VUB are in scope of DiSSCo: Didactical collections (0.62K), Medical didactical collections (0.78K), Pharmacy and medicine (pm), Pharmacy institute (30), biochemical samples medical (3), Museum Anatomy (pm), Cellular and molecular immunology (2), preserved collections (1K), leaf tissues and DNA (10K).
+        De Vrije Universiteit Brussel (VUB) heeft relatief kleine collecties en zal ook haar kleine laboratorium- of weescollecties binnen DiSSCo aanpakken. De VUB is zich bewust van het belang van de collecties, maar weet dat de
+        verantwoordelijke medewerker binnekort met pensioen gaat en dat de kans op vervanging vrij klein is. Daarom wil ze een zo volledig mogelijke inventaris maken en binnen DiSSCo beslissen over de workflow om de meeste collecties elders onder te brengen voor
+        veilige bewaring en betere toegankelijkheid voor wetenschappelijk hergebruik, in plaats van te investeren in lokale bewaarplaatsen. Het herbarium is ondergebracht bij MeiseBG. Op basis van de Academic Heritage assessment van 2012 vallen de volgende collecties 
+        van de VUB onder DiSSCo: Didactische collecties (0,62K), Medische didactische collecties (0,78K), Farmacie en geneeskunde (pm), Farmaceutisch instituut (30), Biochemische stalen medisch (3), Museum Anatomie (pm), Cellulaire en moleculaire immunologie (2), geconserveerde collecties (1K), Bladtissues en DNA (10K).
       # img required
       background: /assets/images/placeholders/vub_logo_digitaal2-1536x684.jpg
       href: https://www.vub.be/nl
