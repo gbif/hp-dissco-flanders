@@ -10,8 +10,6 @@ cta:
   - text: Exemplaren
     href: /nl/exemplaren/zoekopdracht
     isPrimary: true
-  - text: Collecties
-    href: "#collections"
   - text: Over
     href: /over
 composition:
@@ -19,8 +17,6 @@ composition:
   - type: pageMarkdown
   - type: split
     data: examples.herbariumImageExample
-  - type: features
-    data: examples.collections
 permalink: /nl
 ---
 
