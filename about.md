@@ -9,6 +9,8 @@ background: "{{ site.data.images.acalypha_gillespieae.src }}"
 imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
 height: 60vh
 toc: true
+composition:
+    data: dashboard.dashboard
 ---
 
 Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
