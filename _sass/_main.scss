@@ -5,10 +5,10 @@ $navbar-item-img-max-height: 2.5rem;
 @import "_example";
 
 .iframe-box {
-  padding: 24px;
+  padding: 12px;
   iframe {
     @extend .box;
-    width: 80%;
+    width: 60%;
     max-height: 80vh;
     margin-left: auto;   /* Automatic margin from left */ 
     margin-right: auto; /* Automatic margin from right */ 
