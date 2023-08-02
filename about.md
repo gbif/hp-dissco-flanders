@@ -12,6 +12,7 @@ toc: true
 composition:
   - type: blank
     data: dashboard.dashboard
+  - type: pageMarkdown
 ---
 
 Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
