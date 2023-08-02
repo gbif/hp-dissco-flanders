@@ -10,6 +10,7 @@ imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
 height: 60vh
 toc: true
 composition:
+  - type: blank
     data: dashboard.dashboard
 ---
 
