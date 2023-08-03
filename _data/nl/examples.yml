@@ -129,9 +129,11 @@ partners:
       href: https://www.zooantwerpen.be/en/antwerp-zoo-society/
     - title: Vereniging van Botanische Tuinen en Arboreta
       description: |      # required
-        Botanic Gardens and Arboreta Association (VBTA) is a Belgian association with legal status in Flanders (seat in MeiseBG).
-        On board are the largest botanic gardens of Belgium, as well as several smaller arboreta. From the 21 gardens listed, 19 are situated in Flanders. In total, it is estimated that they harbor more than 30K different species of plants.
-        Based on the information available for the gardens not listed above as part of the other consortium members, up to 25K herbarium specimens are present. The living collections are expressed in different metrics: number of individual plants (especially when counting trees), number of taxa or number of accessions. In the early 2000 a federal project called PlantCol, coordinated by MeiseBG, set the first steps to federate these valuable living botanic collections in Belgium under one portal. DiSSCo is the occasion to update this portal to modern standards and mobilize the data using standard metrics.
+        De Vereniging van Botanische Tuinen en Arboreta (VBTA) is een Belgische vereniging met rechtspersoonlijkheid in Vlaanderen (gevestigd in MeiseBG). Aan boord bevinden zich de grootste botanische tuinen van België, alsook 
+        verschillende kleinere arboreta. Van de 21 vermelde tuinen bevinden er zich 19 in Vlaanderen. In totaal herbergen ze naar schatting meer dan 30K verschillende plantensoorten. Op basis van de beschikbare 
+        informatie voor de tuinen die niet hierboven niet vermeld staan als onderdeel van de andere leden van het consortium, zijn er tot 25K herbariumspecimens aanwezig. De levende collecties worden uitgedrukt in verschillende metrieken: 
+        aantal individuele planten (vooral bij het tellen van bomen), aantal taxa of aantal accessies. In het begin van de jaren 2000 zette een federaal project genaamd PlantCol, gecoördineerd door MeiseBG, de eerste stappen 
+        om deze waardevolle levende botanische collecties in België te verenigen onder één portaal. DiSSCo vormt de gelegenheid om dit portaal te updaten naar moderne standaarden en de gegevens te mobiliseren met behulp van standaardmetrieken.
       background: /assets/images/placeholders/vbta logo.png
       href: https://www.botanischetuinen.be/nl/vereniging
     - title: The Royal Belgian Institute of Natural Sciences
