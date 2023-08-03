@@ -147,9 +147,14 @@ partners:
         Het Laboratorium voor Moleculaire Systematiek (LMS) is volledig uitgerust en biedt een dynamische werkomgeving voor onderzoekers die verschillende DNA-markers gebruiken voor moleculair onderzoek. 
       background: /assets/images/placeholders/logo_rbins-1536x481.gif
       href: https://www.naturalsciences.be/nl/museum/home
-    - title: Afrika museum
+    - title: Het Koninklijk Museum voor Midden-Afrika 
       description: |      # required
-        
+        Het Koninklijk Museum voor Midden-Afrika (KMMA) is een multidisciplinaire instelling die zich richt op natuurlijk en cultureel erfgoed, kennisoverdracht en onderzoek. Het bezit één van de grootste wereldcollecties over 
+        Centraal-Afrika en biedt uniek referentiemateriaal. De meerderheid van de specimens zijn afkomstig van een relatief slecht bestudeerde megadiversiteitsgordel in de equatoriale regio van Afrika. De biologie- en geologieafdelingen 
+        bevatten ongeveer 10 miljoen dierenspecimens, 60.000 houtsamples, 16.000 mineralen, 300.000 gesteenten en 21.500 fossielen. Uitgebreide archieven bevatten veldnotities, boeken, kaarten en luchtfotografie met waardevolle 
+        aanvullende informatie. Onderzoekers voeren studies uit in de natuurlijke en stedelijke omgevingen, inclusief historische sociaaleconomische aspecten. De belangrijkste faciliteiten zijn een DNA-lab voor pre-processing 
+        sequencing, genotyping, een houtanatomielaboratorium, foto-stacking- en 3D-digitaliseringssystemen, een scanning-elektronenmicroscoop, een geologisch laboratorium voor dunne doornseden, een uitgebreide cartografiebibliotheek, 
+        remote sensing-apparatuur en geavanceerde spectroscopiefaciliteiten. 
       background: /assets/images/placeholders/MRAC_logo.jpg
       href: https://www.africamuseum.be/nl
     - title: Université libre de Bruxelles
