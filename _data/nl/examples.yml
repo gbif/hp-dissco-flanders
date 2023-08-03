@@ -159,7 +159,11 @@ partners:
       href: https://www.africamuseum.be/nl
     - title: Université libre de Bruxelles
       description: |      # required
-       
+        Université libre de Bruxelles (ULB) is een Franstalige particuliere onderzoeksuniversiteit in Brussel. De oprichting gaat terug tot 1834. Momenteel zijn er ongeveer 3600 onderzoekers en 2000 PhD-studenten actief aan het 
+        ULB. De universiteit neemt momenteel deel aan DiSSCo met zijn herbarium dat 250.000 specimens herbergt, waaronder ongeveer 600 type-specimens. De kern van de collectie bestaat uit vaatplanten uit Centraal-Afrika, met name uit 
+        Katanga met de flora van metaalrijke bodems, de flora van equatoriaal Atlantisch Afrika. Hoogtepunten zijn ongeveer 6000 orchideeën uit tropisch Afrika, inclusief weefselstalen voor DNA-extracties voor ongeveer 
+        5000 specimens. De universiteit speelt ook een belangrijke rol bij capaciteitsopbouw met bijvoorbeeld de ERASMUS Mundus Master in Tropical Biodiversity and Ecosystems TROPIMUNDO. Naast het herbarium beheert de ULB ook 
+        andere wetenschappelijke collecties. In het kader van DiSSCo zal een gedetailleerde inventaris worden opgemaakt met prioritering voor behoud, digitalisering, publicatie en hergebruik.
       background: /assets/images/placeholders/ulb logo.jpg
       href: https://www.ulb.be/en
     - title: Université de Namur
