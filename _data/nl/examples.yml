@@ -107,12 +107,14 @@ partners:
       href: https://ilvo.vlaanderen.be/nl/
     - title: Vlaams Instituut voor de Zee
       description: |      # required
-        Het Vlaams Instituut voor Landbouw-, Visserij- en Voedingsonderzoek (EV-ILVO) is een internationaal erkend wetenschappelijk instituut dat staat voor multidisciplinair, onafhankelijk onderzoek en 
-        gespecialiseerde dienstverlening op alle gebieden die verband houden met landbouw, visserij en voeding in Vlaanderen. EV-ILVO zal bijdragen aan DiSSCo met collecties van mariene fauna (1,5K) en 
-        gedroogde referentiesedimentstalen voor metalen en korrelgrootte (0,3K) in de Noordzee, otolieten (10K) en vinclips van vissen (1K), mariene milieustalen voor eDNA (0,2K), mariene ongewervelde specimens en hun DNA (1K), 
-        zaadcollecties en genetische bronnen van landbouwgewassen (1K) en levende plantencultivars (0,5K), biobanken en genetische bronnen van gewasplagen zoals nematoden, mijten, schimmels en bacteriën (8,5K) 
-        en isolaten en genetische bronnen van bacteriën en schimmels die verband houden met de voedings- en landbouwindustrie (10K). EV ILVO heeft ook langetermijnreeksen van metingen van garnalenvisserijvangsten (>100 jaar) 
-        en macrobenthosgemeenschappen in de Noordzee (>20 jaar), die gekoppeld kunnen worden aan DiSSCo, terwijl ze ook aan bod komen in andere infrastructuren voor biomonitoring. 
+        Het Vlaams Instituut voor de Zee (VLIZ) bevordert de accumulatie van mariene kennis en gegevens in marien onderzoek in Vlaanderen, met de nadruk op oceanen, zeeën, kust- en getijdensystemen. De doelgroepen voor kennisaccumulatie 
+        zijn zowel de mariene onderzoeksgemeenschap als onderwijsinstellingen, het grote publiek, beleidsmakers en de industrie (in het kader van de blauwe economie). Onder de kernactiviteiten van VLIZ behoren het ondersteunen 
+        van netwerken van mariene wetenschappers en andere betrokken partijen, en het vertegenwoordigen van de Vlaamse mariene onderzoeksgemeenschap in internationale mariene wetenschappelijke kringen. Naast deze kernactiviteiten 
+        zijn verschillende lopende activiteiten bij VLIZ zeer relevant voor DiSSCo. VLIZ is als lid van LifeWatch ESFRI zowel de regionale bijdrager met activiteiten in verband met de observatoria en data-archeologie, als verantwoordelijk 
+        voor de ontwikkeling van de Species Information Backbone. Naast taxonomische informatie biedt deze backbone toegang tot een reeks aanvullende informatie, waaronder soortkenmerken, specimeninformatie, distributies en habitats, 
+        waarbij een link wordt gelegd naar en directe toegang wordt geboden tot literatuur en databases zoals GBIF, COL, GenBank, BHL, EOL en BoLD. Alle activiteiten binnen de LifeWatch Species Information Backbone worden aangeboden 
+        als in-kind bijdragen aan DiSSCo: het interlinken van dergelijke gegevens met collectiegegevens zal de onderzoekstoepassingen en het potentieel van de collecties binnen DiSSCo verbreden. VLIZ zal bijdragen aan DiSSCo met een 
+        kerncollectie van mariene repositories. Deze repository bevat mariene sedimentmonsters die van groot belang zijn voor oceaanonderzoek. Ze worden gebruikt voor onderzoek naar klimaat, milieu, vele andere mariene geologische studies en voor onderwijs. 
       background: /assets/images/placeholders/vliz logo.png
       href: https://www.vliz.be/nl
     - title: Royal Zoological Society of Antwerp
