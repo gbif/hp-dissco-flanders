@@ -63,16 +63,20 @@ partners:
       href: https://www.vub.be/nl
     - title: KU Leuven
       description: |      # required
-        KU Leuven has a large variety of collections across different biological and geological related disciplines in scope of DiSSCo, as well as scientists acting as curators and data managers.
-        Like with the other universities, both classical and smaller lab collections will be considered. KU Leuven will participate in DiSSCo with the following collections: Soil monoliths, lacquer profiles and samples and Legacy soil maps (1.1K), Rocks (10K), Mineralogy (10K), Paleontology (100K), Prehistory (10K), Zoology Museum (6K), agricultural models (10) (inventory is based on the Academic Heritage inventory (2012). The soil samples, Paleontology collection and Zoology Museum are partly inventoried and digitized. The staff of KU Leuven has experience with collection management and digitization.
+        KU Leuven heeft een grote verscheidenheid aan collecties in verschillende biologische en geologische gerelateerde disciplines in het kader van DiSSCo, evenals wetenschappers die optreden als curatoren en gegevensbeheerders. 
+        Net als bij de andere universiteiten komen zowel klassieke als kleinere labocollecties in aanmerking. KU Leuven zal deelnemen aan DiSSCo met de volgende collecties: Bodemmonolieten, lakprofielen en -stalen en Legacy bodemkaarten (1,1K), 
+        Rotsen (10K), Mineralogie (10K), Paleontologie (100K), Prehistorie (10K), Museum voor Dierkunde (6K), landbouwmodellen (10) (inventaris is gebaseerd op de Academisch Erfgoedinventaris (2012). De bodemmonsters, Paleontologiecollectie en Zoölogische collecties 
+        zijn gedeeltelijk geïnventariseerd en gedigitaliseerd. Het personeel van KU Leuven heeft ervaring met collectiebeheer en digitalisering.
       background: /assets/images/placeholders/KULEUVEN_0.png
       href: https://www.kuleuven.be/kuleuven/index.html
     - title: Instituut voor Natuur- en Bosonderzoek
       description: |      # required
-        Research Institute for Nature and Forest (INBO) is the Flemish research and knowledge centre for nature and its sustainable management and use.
-        INBO conducts research and supplies knowledge to policy makers and stakeholders. Through its scientific research, INBO supports all agencies in the Flemish government dealing with open space, as well as organisations involved in nature conservation, forestry, agriculture, hunting and fishery.
-        INBO publishes its scientific results as open data for international reporting. It participates in several international research networks including LTER, ALTER-Net and LifeWatch. INBO will notably act as liaison between the biodiversity research field and collection data.
-        Furthermore INBO houses a living collection of native trees and shrubs from Belgium, a soil sample archive (15K) that will enrich the Earth Science collections within DiSSCo, and a DNA sample collection including material from rare species of high conservation priority in Europe and Flanders. Staff of INBO are experts in Biodiversity Informatics and a number of employees of the Belgium Biodiversity Platform, acting as the country’s GBIF node, are stationed there.
+        Het Instituut voor Natuur- en Bosonderzoek (INBO) is het Vlaamse onderzoeks- en kenniscentrum voor de natuur en haar duurzame beheer en gebruik. INBO verricht onderzoek en levert kennis aan beleidsmakers en 
+        stakeholders. Via haar wetenschappelijk onderzoek ondersteunt INBO alle agentschappen van de Vlaamse overheid die zich bezighouden met open ruimte, evenals organisaties die betrokken zijn bij natuurbehoud, bosbouw, 
+        landbouw, jacht en visserij. INBO publiceert haar wetenschappelijke resultaten als open data voor internationale rapportage. Het neemt deel aan verschillende internationale onderzoeksnetwerken, waaronder LTER, ALTER-Net en 
+        LifeWatch. INBO zal met name optreden als liaison tussen het onderzoeksveld biodiversiteit en collectiegegevens. Bovendien herbergt INBO een levende collectie van inheemse bomen en struiken uit België, een bodemmonsterarchief (15K) 
+        dat de Earth Science-collecties binnen DiSSCo zal verrijken, en een DNA-monstercollectie met materiaal van zeldzame soorten met een hoge prioriteit voor natuurbehoud in Europa en Vlaanderen. De medewerkers van INBO zijn experts in biodiversiteitsinformatica  
+        en een aantal medewerkers van het Belgisch Biodiversiteitsplatform, dat fungeert als het GBIF-knooppunt van het land, zijn daar gestationeerd.
       background: /assets/images/placeholders/INBO logo.png
       href: https://www.vlaanderen.be/inbo/home/
     - title: Universiteit Gent
