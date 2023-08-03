@@ -65,7 +65,7 @@ partners:
       description: |      # required
         KU Leuven heeft een grote verscheidenheid aan collecties in verschillende biologische en geologische gerelateerde disciplines in het kader van DiSSCo, evenals wetenschappers die optreden als curatoren en gegevensbeheerders. 
         Net als bij de andere universiteiten komen zowel klassieke als kleinere labocollecties in aanmerking. KU Leuven zal deelnemen aan DiSSCo met de volgende collecties: Bodemmonolieten, lakprofielen en -stalen en Legacy bodemkaarten (1,1K), 
-        Rotsen (10K), Mineralogie (10K), Paleontologie (100K), Prehistorie (10K), Museum voor Dierkunde (6K), landbouwmodellen (10) (inventaris is gebaseerd op de Academisch Erfgoedinventaris (2012). De bodemmonsters, Paleontologiecollectie en Zoölogische collecties 
+        Gesteenten (10K), Mineralogie (10K), Paleontologie (100K), Prehistorie (10K), Museum voor Dierkunde (6K), landbouwmodellen (10) (inventaris is gebaseerd op de Academisch Erfgoedinventaris (2012). De bodemmonsters, Paleontologiecollectie en Zoölogische collecties 
         zijn gedeeltelijk geïnventariseerd en gedigitaliseerd. Het personeel van KU Leuven heeft ervaring met collectiebeheer en digitalisering.
       background: /assets/images/placeholders/KULEUVEN_0.png
       href: https://www.kuleuven.be/kuleuven/index.html
@@ -80,8 +80,12 @@ partners:
       href: https://www.vlaanderen.be/inbo/home/
     - title: Universiteit Gent
       description: |      # required
-        Ghent University (UGent) houses several institutional collections, including the zoological museum, a botanical garden and herbarium, as well as several smaller collections linked to biological and geological labs. 
-        In March 2020, UGent will open the new Ghent University Museum (GUM), which will showcase their unique collections to the wider public and engage in increased educational purposes. The staff of UGent is experienced in collection management and will disclose its collections to DiSSCo as an important contributor. Beside the known and inventoried collections, the smaller and potentially orphan lab collections will also be part of the project, like for example biological, medical and histological slide collections. Based on the Academic Heritage inventory (2012), UGent has as a rough estimation of the following collection items in the scope of DiSSCo : rocks and minerals (50K), Museum Morphology (7K), Veterinary collections (?), Animal Pathologies (1K), Pharmacy (0.46K), Botanical Garden including the herbarium (0.41Mio), Microorganisms (75K), Museum Zoology (50K), Museum History of Medicine (?).
+        Ghent University (UGent) herbergt verschillende institutionele collecties, waaronder het zoölogisch museum, een botanische tuin en herbarium, evenals verschillende kleinere collecties die verbonden zijn met biologische en geologische laboratoria. 
+        In maart 2020 zal UGent het nieuwe Ghent University Museum (GUM) openen, dat hun unieke collecties aan het bredere publiek zal tonen en zich zal bezighouden met verhoogde educatieve doeleinden. Het personeel van UGent is ervaren in collectiebeheer 
+        en zal zijn collecties als een belangrijke contribuant aan DiSSCo ter beschikking stellen. Naast de gekende en geïnventariseerde collecties zullen ook de kleinere en potentieel verweesde labcollecties deel uitmaken van het project, zoals bijvoorbeeld 
+        biologische, medische en histologische diacollecties. Op basis van het Academisch Erfgoedinventaris (2012) heeft UGent als ruwe schatting de volgende collectie-items in het kader van DiSSCo: gesteenten en mineralen (50K), Museum Morfologie (7K), Veterinaire collecties (?), 
+        Dierpathologieën (1K), Farmacie (0,46K), Botanische Tuin inclusief het herbarium (0,41Mio), Micro-organismen (75K), Museum Zoölogie (50K), Museum Geschiedenis van Geneeskunde (?). 
+
       background: /assets/images/placeholders/Ghent logo.png
       href: https://www.ugent.be/nl
     - title: Universiteit Antwerpen
