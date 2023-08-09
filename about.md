@@ -14,6 +14,7 @@ composition:
     data: dashboard.dashboard
   - type: pageMarkdown
 ---
+## Here will come the dashboard
 
 <details markdown="1">
 
@@ -35,119 +36,14 @@ makers.
 
 </details>
 
-
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
-
-<details markdown="1">
-<summary>
-Styled details tag
-</summary>
-
-  Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
-
-</details>
-
-<details markdown="1">
-
-<summary>
-Can be useful for FAQs
-</summary>
-  
-
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
-
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
-
-
-</details>
-
-## Distributed System of Scientific Collections – Flanders
-
-[DiSSCo](https://dissco-flanders.be) is a new world-class Research Infrastructure for the physical and digital curation of European natural science collections under common management
-and access policies. To make the collections more visible and used, their data and media should become more Findable, Accessible, Interoperable and
-Reusable (FAIR). Representing the largest ever formal agreement between natural history museums, botanical gardens, zoos and other collection-holding
-research institutions and universities, DiSSCo enables the transformation of a fragmented landscape into an integrated knowledge base. DiSSCo Flanders
-will address biological, anthropological and geological collections, comprising preserved, living, tissues and molecular collections. Smaller lab and
-orphan collections are fully part of this proposal to guarantee their proper conservation and re-usability. The whole workflow from specimen sampling in
-the field to their digitization and online publication will be addressed. The vision is to position European natural science collections at the centre of
-data-driven scientific excellence and innovation in biodiversity and environmental research, climate change, food security, health and the bioeconomy.
-
-
-## Quam ex te videt
-
-Quam Erycina et celsoque trabes; torva, nec et alto egens. Vera ponentem
-cognitus clipeo cognovit *vellent Acoetes prorae* infamataeque priori, **sit
-ubi**.
-
-    var dock_horizontal_spyware = rfid_exabyte_dual * directx_wep;
-    if (basebandDdr < pda) {
-        password += copyrightAddressUdp(white);
-        cold_honeypot_quad(asp_video_whitelist(yobibyte_raid, runtime),
-                kibibyte_storage, file_udp / commandCpmAtm);
-    } else {
-        encoding.dragWhoisWww = lun_token * ram;
-        boxCpm(media_drag_southbridge);
-        url_key.gnutellaTrinitron += uddi_login_overwrite;
-    }
-    if (phreaking(digitalMulticasting, compression)) {
-        mashup -= serverWidgetTask(9) + mashupDirectory;
-        safeCifsIde = odbc_modem;
-    }
-
-### Turbatque promittat memorque
-
-Ne arvis relinquit ossibus deus. Superis et oppugnare suo armis? Adfata nec
-lavit sed disces cum surgimus peteret gladios; pabula. Quod vos fugit, manebat
-dum: fateor profugus renovatus exhalantem.
-
 --------
 
-### In frustra albus
+### DiSSCo Flanders Consortium 
 
-Levia in bella idque Dianam instabilis illo contentus Oriens auctor non litat
-genitas trementi hoc bina tulisti! Tuae at aequor!
+background: /assets/images/2_01_WEB_2_DiSSCo_1.png
+imageLicense: [Isotype of _Irpex spiculifer_ G.Cunn.](https://www.gbif.org/occurrence/1135723338) from [Manaaki Whenua - Landcare Research](/collection/034e128e-ee23-42d4-989d-cbe406c04fdb)
 
-### Turbatque promittat memorque
-
-Ne arvis relinquit ossibus deus. Superis et oppugnare suo armis? Adfata nec
-lavit sed disces cum surgimus peteret gladios; pabula. Quod vos fugit, manebat
-dum: fateor profugus renovatus exhalantem.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| tables        | are useful    |    $1 |
-
---------
-
-### In frustra albus
-
-Levia in bella idque Dianam instabilis illo contentus Oriens auctor non litat
-genitas trementi hoc bina tulisti! Tuae at aequor!
-
-* Level 1 a
-* Level 1 b
-  * Level 2 a
-  * Level 2 b
-
-## Est mea videndo
-
-Nec bene filia fraxineam flumina, praesens amici nitidaeque inguine infractaque!
-Non quae illuc! E alto cum quod: fessi fatum patulis ore actaque quaque, ore.
-Honor praemia veniunt violavit tu
-[aequore](http://pete-munere.com/caeneus-dare.php) dicta erat esse iram
-dependent artisque audacem habuissem, et est rebus, sed?
+Associated to the project are the  Federal Belgian collections to ensure aligned policies and procedures.
 
 [Call to action](/data){: .button .is-primary} [Other action](/data){: .button}
 
