@@ -5,7 +5,7 @@
 # So in your frontmatter you can either use this data file :
 # background:  "{{ site.data.images.catocala_ilia_cramer.src }}"
 # imageLicense: "{{ site.data.images.catocala_ilia_cramer.caption }}"
-#
+
 # or you can just type it in that file
 # background:  /assets/images/placeholders/irpex_spiculifer_1135723338.jpg
 # imageLicense: [Isotype of _Irpex spiculifer_ G.Cunn.](https://www.gbif.org/occurrence/1135723338) from [Manaaki Whenua - Landcare Research](/collection/034e128e-ee23-42d4-989d-cbe406c04fdb)
@@ -30,4 +30,8 @@ catocala_ilia_cramer:
   src: /assets/images/placeholders/catocala_ilia_cramer_2365571744.jpg
   caption: |
     [_Catocala ilia_ Cramer, 1779](https://www.gbif.org/occurrence/2365571744) from [Peabody Museum of Natural History](institution/75f50140-830d-4630-a290-3d6e951a7c29)
-
+    
+about_image:
+  src: /assets/images/placeholders/Kabinet_Chaos_Save_As_Foto_Karin_Borghouts.jpg
+  caption: |
+    [Kabinet_Chaos, Karin Borghouts]
