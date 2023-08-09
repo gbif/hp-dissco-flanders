@@ -11,21 +11,6 @@ height: 60vh
 toc: true
 ---
 
-# Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-# flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-# pontum ut** avus quamquam de trabes vestemque cruorem tremor.
-
-# <details markdown="1">
-# <summary>
-# Styled details tag
-# </summary>
-
- # Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-# flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-# pontum ut** avus quamquam de trabes vestemque cruorem tremor.
-
-</details>
-
 <details markdown="1">
 
 <summary>
