@@ -9,11 +9,12 @@ background: "{{ site.data.images.acalypha_gillespieae.src }}"
 imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
 height: 60vh
 toc: true
+
+---
 composition:
   - type: blank
     data: dashboard.dashboard
   - type: pageMarkdown
----
 
 Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
 flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
