@@ -31,4 +31,4 @@ De DiSSCo Flanders use-case keek naar de inhoud van regionale Vlaamse collecties
 background: /assets/images/2_01_WEB_2_DiSSCo_1.png
 imageLicense: [Isotype of _Irpex spiculifer_ G.Cunn.](https://www.gbif.org/occurrence/1135723338) from [Manaaki Whenua - Landcare Research](/collection/034e128e-ee23-42d4-989d-cbe406c04fdb)
 
-Associated to the project are the  Federal Belgian collections to ensure aligned policies and procedures.
+Bij het project horen de federale Belgische collecties om afgestemde beleidslijnen en procedures te garanderen. 
