@@ -5,8 +5,8 @@ klass: faq
 title: Over
 description: |
   Welkom bij de wetenschapscollecties! Dit portaal heeft als doel om alle gedigitaliseerde collecties gemakkelijk toegankelijk te maken en samenwerking te bevorderen voor onderzoek en innovatie. 
-background: "{{ site.data.images.about_image.src }}"
-imageLicense: "{{ site.data.images.about_image.caption }}"
+background: /assets/images/placeholders/Kabinet_Chaos_Save_As_Foto_Karin_Borghouts (1).jpg
+imageLicense: Photo by Karin Borghouts
 height: 60vh
 toc: true
 ---
