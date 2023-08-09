@@ -15,7 +15,7 @@ composition:
   - type: blank
     data: dashboard.dashboard
   - type: pageMarkdown
-
+---
 Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
 flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
 pontum ut** avus quamquam de trabes vestemque cruorem tremor.
