@@ -5,8 +5,8 @@ klass: faq
 title: About
 description: |
   Welcome to the science collections! This portal aims to make all digitized collections easily accessible, fostering a collaborative environment for research and innovation. 
-background: "{{ site.data.images.acalypha_gillespieae.src }}"
-imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
+background: /assets/images/placeholders/Kabinet_Chaos_Save_As_Foto_Karin_Borghouts (1).jpg
+imageLicense: Photo by Karin Borghouts
 height: 60vh
 toc: true
 composition:
