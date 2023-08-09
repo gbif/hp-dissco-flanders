@@ -5,12 +5,12 @@ klass: faq
 title: Over
 description: |
   Welkom bij de wetenschapscollecties! Dit portaal heeft als doel om alle gedigitaliseerde collecties gemakkelijk toegankelijk te maken en samenwerking te bevorderen voor onderzoek en innovatie. 
-background: "{{ site.data.images.acalypha_gillespieae.src }}"
-imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
+background: "{{ site.data.images.about_image.src }}"
+imageLicense: "{{ site.data.images.about_image.caption }}"
 height: 60vh
 toc: true
 ---
-## Here will come the dashboard
+## Hier komt het dashboard
 <details markdown="1">
 
 <summary>
