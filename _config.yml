@@ -29,7 +29,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dissco-flanders.hp.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DisscoFlanders # if you have an account you want to link to. Else comment this line out
 # github_username:  yourname # if you have an account you want to link to. Else comment this line out
-logo: /assests/images/Leeuw_solo_trapezium-284x300.png # funding logo in footer 
+
 # Build settings
 theme: minima
 plugins:
