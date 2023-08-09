@@ -11,48 +11,47 @@ height: 60vh
 toc: true
 ---
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+# Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
+# flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
+# pontum ut** avus quamquam de trabes vestemque cruorem tremor.
 
-<details markdown="1">
-<summary>
-Styled details tag
-</summary>
+# <details markdown="1">
+# <summary>
+# Styled details tag
+# </summary>
 
-  Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+ # Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
+# flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
+# pontum ut** avus quamquam de trabes vestemque cruorem tremor.
 
 </details>
 
 <details markdown="1">
 
 <summary>
-Can be useful for FAQs
+The DiSSCo Flanders PowerBI dashboard
 </summary>
   
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+Natural science collections contain a huge amount of information on the past and present of biodiversity worldwide. Since digitization at the specimen level is
+far from being accomplished to date, it remains a challenge to find relevant specimens and valorize the importance of these collections. Especially the smaller
+collections often remain unknown and even risk neglect or even disappearance. The Latimer Core standard wants to provide an answer to make collections and
+collection data more discoverable and interoperable.
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
-
+The DiSSCo Flanders use-case looked at the content of regional Flemish collections through a survey. The smaller research collections and living plant
+collections typically had only limited or no online representation of their content. Even a rough inventory of many collections was lacking. The standardized
+approach of conducting the survey made sure that the content of the collections can be compared to each other. This also made it possible to have a graphical
+representation of the collections through a PowerBI dashboard, which is instrumental in increasing the visibility of the collections for scientists and policy
+makers. 
 
 </details>
 
 ## Distrubuted System of Scientific Collections - Vlaanderen
-[DiSSCo](https://dissco-flanders.be) is een nieuwe onderzoeksinfrastructuur van wereldklasse voor het fysiek en digitaal beheren van Europese natuurwetenschappelijke collecties met een overkoepelend management- en toegangsbeleid. Om de collecties beter zichtbaar en bruikbaar te maken, moeten de bijbehorende gegevens en media beter vindbaar, toegankelijk, uitwisselbaar en herbruikbaar (FAIR) worden. DiSSCo vertegenwoordigt de grootste formele overeenkomst ooit tussen natuurhistorische musea, botanische tuinen, dierentuinen, universiteiten en andere instituten met collecties, en maakt het mogelijk een gefragmenteerd landschap om te vormen tot een geïntegreerde kennisbasis. DiSSCo Vlaanderen richt zich op biologische, antropologische en geologische collecties, bestaande uit geconserveerde, levende, moleculaire en weefselcollecties. Kleinere laboratorium- en verweesde collecties maken volledig deel uit van deze aanvraag om ook hun juiste conservatie en herbruikbaarheid te garanderen. De hele workflow, van het bemonsteren van specimens in het veld tot hun digitalisering en online publicatie voor hergebruik van hun digitale informatie, zal aan bod komen met het oog op degelijk collectiebeheer. De visie is om Europese natuurwetenschappelijke collecties een centrale plaats te geven in datagestuurde wetenschappelijke excellentie
-en innovatie op het gebied van biodiversiteits- en milieuonderzoek, klimaatverandering, voedselzekerheid, gezondheid en de bio-economie.
+# [DiSSCo](https://dissco-flanders.be) is een nieuwe onderzoeksinfrastructuur van wereldklasse voor het fysiek en digitaal beheren van Europese natuurwetenschappelijke collecties met een overkoepelend management- en toegangsbeleid. Om de collecties beter zichtbaar en bruikbaar te maken, moeten de bijbehorende gegevens en media beter vindbaar, toegankelijk, uitwisselbaar en herbruikbaar (FAIR) worden. DiSSCo vertegenwoordigt de grootste formele overeenkomst ooit tussen natuurhistorische musea, botanische tuinen, dierentuinen, universiteiten en andere instituten met collecties, en maakt het mogelijk een gefragmenteerd landschap om te vormen tot een geïntegreerde kennisbasis. DiSSCo Vlaanderen richt zich op biologische, antropologische en geologische collecties, bestaande uit geconserveerde, levende, moleculaire en weefselcollecties. Kleinere laboratorium- en verweesde collecties maken volledig deel uit van deze aanvraag om ook hun juiste conservatie en herbruikbaarheid te garanderen. De hele workflow, van het bemonsteren van specimens in het veld tot hun digitalisering en online publicatie voor hergebruik van hun digitale informatie, zal aan bod komen met het oog op degelijk collectiebeheer. De visie is om Europese natuurwetenschappelijke collecties een centrale plaats te geven in datagestuurde wetenschappelijke excellentie en innovatie op het gebied van biodiversiteits- en milieuonderzoek, klimaatverandering, voedselzekerheid, gezondheid en de bio-economie.
 
 ## Quam ex te videt
 
-Quam Erycina et celsoque trabes; torva, nec et alto egens. Vera ponentem
+# Quam Erycina et celsoque trabes; torva, nec et alto egens. Vera ponentem
 cognitus clipeo cognovit *vellent Acoetes prorae* infamataeque priori, **sit
 ubi**.
 
