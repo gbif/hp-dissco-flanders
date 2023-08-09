@@ -49,6 +49,7 @@ columns:
   - name: Funding
     description: | # Can be Markdown
       The Research Foundation - Flanders (**FWO**) facilitated the content creation of this portal as part of the Flemish contribution to the DiSSCo Research Infrastructure under grant n° I001721N (DiSSCo Flanders project).
+      
       <img src="/assets/images/Leeuw_solo_trapezium-284x300.png" alt="Logo" style="width: 100px; height: 114px"/>
       <img src="/assets/images/image.png" alt="Logo" style="width: 100px; height: 100px"/> 
 background: /assets/images/image.png
