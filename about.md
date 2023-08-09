@@ -38,14 +38,9 @@ makers.
 
 --------
 
-### DiSSCo Flanders Consortium 
-
+description: |
+  ### DiSSCo Flanders Consortium 
 background: /assets/images/2_01_WEB_2_DiSSCo_1.png
-imageLicense: [Isotype of _Irpex spiculifer_ G.Cunn.](https://www.gbif.org/occurrence/1135723338) from [Manaaki Whenua - Landcare Research](/collection/034e128e-ee23-42d4-989d-cbe406c04fdb)
-
+imageLicense: Photo by 
+---
 Associated to the project are the  Federal Belgian collections to ensure aligned policies and procedures.
-
-[Call to action](/data){: .button .is-primary} [Other action](/data){: .button}
-
-Qua refert, orbataque a denique silentia. Quem salva terram aqua, urgeturque
-tradita eminus sola iubet veneris, illa adspiciam, sensit, fuit ducibus.
