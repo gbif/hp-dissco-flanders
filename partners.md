@@ -4,8 +4,9 @@ layout: compose
 klass: partners
 title: Partners
 description: 
-background:  "{{ site.data.images.puccinia.src }}"
-imageLicense: "{{ site.data.images.puccinia.caption }}"
+
+background: /assets/images/placeholders/PLANTENTUIN_KID_Foto_Martin_Corlazzoli.jpg
+imageLicense: Photo by Martin Corlazzoli
 height: 60vh
 composition:
   - type: heroImage # the block type
