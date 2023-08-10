@@ -38,8 +38,7 @@ makers.
 
 --------
 
-description: |
-  ### DiSSCo Flanders Consortium 
+### DiSSCo Flanders Consortium 
 background: /assets/images/2_01_WEB_2_DiSSCo_1.png
 imageLicense: Photo by 
 ---
