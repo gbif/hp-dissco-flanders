@@ -1,10 +1,9 @@
 ---
-title:  "Getting started for authors"
+title:  "Coming soon!"
 date:   2021-01-14 15:20:00 +0100
 categories: ["Getting started", "Jekyll"]
 lang-ref: for authors
-background: https://via.placeholder.com/600x300
+background: /assets/images/placeholders/Jeugd_Chaos_Kabinet_save_as_(c)_Martin_Corlazzoli (1).jpg
+imageLicense: Photo by Martin Corlazzoli
 ---
-You’ll find this post in your `_posts` directory.
-
-Read more in the "[Getting started guide for authors](https://github.com/gbif/hosted-portals/blob/main/getting-started/for-authors.md)" to get started with your new website.
+Stay up-to-date with the latest news and events by checking this page in the future.
