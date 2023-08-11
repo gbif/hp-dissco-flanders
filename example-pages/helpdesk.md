@@ -2,7 +2,7 @@
 layout: post # try to remoce this line (add # in the beginning of the line to make it a comment) - then the layout will change, but the content remain the same
 title: Helpdesk
 description: 
-background: /assets/images/placeholders/moss.jpg
+background: /assets/images/placeholders/BotanicalGarden_1_(c) Martin Corlazzoli.jpg
 imageLicense: |
   None for this image, but it would normally go here. Markdown is allowed.
 height: 70vh
