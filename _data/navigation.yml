@@ -10,10 +10,10 @@
   href: /literature/search
 - text: News and events
   href: /news
-  # - text: Example pages
+- text: Example pages
 #  menu: # Dropdown menu (one level deep only)
-#  - text: Simple
- #   href: /example-pages/simple
+# - text: Simple
+  href: /example-pages/simple
  # - text: Complex
  #   href: /example-pages/complex
 # - text: Links
