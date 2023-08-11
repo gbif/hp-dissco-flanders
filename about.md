@@ -9,6 +9,7 @@ background: /assets/images/placeholders/Kabinet_Chaos_Save_As_Foto_Karin_Borghou
 imageLicense: Photo by Karin Borghouts
 height: 60vh
 toc: true
+---
 composition:
   - type: blank
     data: dashboard.dashboard
