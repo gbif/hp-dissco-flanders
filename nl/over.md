@@ -28,5 +28,7 @@ De DiSSCo Flanders use-case keek naar de inhoud van regionale Vlaamse collecties
 
 ### DiSSCo Flanders Consortium 
 
-background: /assets/images/placeholders/2_01_WEB_2_DiSSCo_1.png
+![alt text](/assets/images/placeholders/2_01_WEB_2_DiSSCo_1.png)
+--
+
 Bij het project horen de federale Belgische collecties om afgestemde beleidslijnen en procedures te garanderen. 
