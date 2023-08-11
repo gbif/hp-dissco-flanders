@@ -17,10 +17,7 @@ toc: true
 De DiSSCo Flanders PowerBI dashboard
 </summary>
   
-
-De Natural science collecties bevatten een enorme hoeveelheid informatie over de wereldwijde biodiversiteit van het verleden en het heden. Aangezien digitalisering op het niveau van het specimen tot op heden verre van voltooid is, blijft het een uitdaging om relevante specimens te vinden en de belangrijkheid van deze collecties te waarderen. Vooral de kleinere collecties blijven vaak onbekend en lopen zelfs risico op verwaarlozing of zelfs verdwijning. De Latimer Core-standaard wil een antwoord bieden om collecties en collectiegegevens meer ontdekbaar en interoperabel te maken. 
-
-De DiSSCo Flanders use-case keek naar de inhoud van regionale Vlaamse collecties door middel van een enquête. De kleinere onderzoekscollecties en levende plantencollecties hadden slechts beperkte of geen online vertegenwoordiging van hun inhoud. Zelfs een ruwe inventarisatie van veel collecties ontbrak. De gestandaardiseerde aanpak van de enquête zorgde ervoor dat de inhoud van de collecties met elkaar kon vergeleken worden. Dit maakte het ook mogelijk om een grafische weergave van de collecties te hebben via een PowerBI-dashboard, wat instrumenteel is in het vergroten van de zichtbaarheid van de collecties voor wetenschappers en beleidsmakers. 
+De DiSSCo Flanders use-case heeft regionale Vlaamse collecties onderzocht door middel van een enquête. Ondek hier de bevindingen van dit onderzoek naar natuurwetenschappelijke collecties en krijg inzicht in de historische en actuele staat van de biodiversiteit. Het gebruik van een PowerBI-dashboard voor de grafische weergave van de collecties verhoogt de zichtbaarheid ervan voor zowel wetenschappers als beleidsmakers. 
 
 </details>
 
@@ -31,4 +28,4 @@ De DiSSCo Flanders use-case keek naar de inhoud van regionale Vlaamse collecties
 ![alt text](/assets/images/placeholders/2_01_WEB_2_DiSSCo_1.png)
 --
 
-Bij het project horen de federale Belgische collecties om afgestemde beleidslijnen en procedures te garanderen. 
+Het consortium bestaat uit Vlaamse universiteiten, onderzoeksinstellingen en een vereniging van botanische tuinen en arboreta. Bij het project horen de federale Belgische collecties om afgestemde beleidslijnen en procedures te garanderen. 
