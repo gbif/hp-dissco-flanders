@@ -38,9 +38,11 @@ makers.
 
 --------
 
-## DiSSCo Flanders Consortium 
+### DiSSCo Flanders Consortium 
+
 ![alt text](/assets/images/placeholders/2_01_WEB_2_DiSSCo_1.png)
-----
+--
 
-
-Associated to the project are the  Federal Belgian collections to ensure aligned policies and procedures.
+The consortium exists of the Flemish universities, research institutions, and an association of 
+botanical gardens and arboreta. Associated to the project are the  Federal Belgian collections
+to ensure aligned policies and procedures.
