@@ -13,7 +13,7 @@
 - text: helpdesk
 #  menu: # Dropdown menu (one level deep only)
 # - text: Helpdesk
-  href: /helpdesk/helpdesk
+  href: /example-pages/helpdesk
  # - text: Complex
  #   href: /example-pages/complex
 # - text: Links
