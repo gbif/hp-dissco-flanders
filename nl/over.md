@@ -9,6 +9,11 @@ background: /assets/images/placeholders/Kabinet_Chaos_Save_As_Foto_Karin_Borghou
 imageLicense: Foto door Karin Borghouts
 height: 60vh
 toc: true
+
+composition:
+  - type: blank
+    data: dashboard.dashboard
+  - type: pageMarkdown
 ---
 ## Hier komt het dashboard
 <details markdown="1">
