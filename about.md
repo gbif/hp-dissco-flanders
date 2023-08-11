@@ -40,6 +40,5 @@ makers.
 
 ## DiSSCo Flanders Consortium 
 ![alt text](/assets/images/placeholders/2_01_WEB_2_DiSSCo_1.png)
-imageLicense: Photo by 
 ---
 Associated to the project are the  Federal Belgian collections to ensure aligned policies and procedures.
