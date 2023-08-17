@@ -18,6 +18,7 @@ composition:
   - type: pageMarkdown
 ---
 ## Here will come the dashboard
+
 {{ page.dashboard.markdownContent }}
 
 <details markdown="1">
