@@ -17,9 +17,6 @@ composition:
     data: dashboard.dashboard
   - type: pageMarkdown
 ---
-## Here will come the dashboard
-
-
 <details markdown="1">
 
 <summary>
