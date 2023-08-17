@@ -20,7 +20,7 @@ composition:
 <details markdown="1">
 
 <summary>
-De DiSSCo Flanders PowerBI dashboard
+DiSSCo Flanders PowerBI dashboard
 </summary>
   
 De DiSSCo Flanders use-case heeft regionale Vlaamse collecties onderzocht door middel van een enquête. Ondek hier de bevindingen van dit onderzoek naar natuurwetenschappelijke collecties en krijg inzicht in de historische en actuele staat van de biodiversiteit. Het gebruik van een PowerBI-dashboard voor de grafische weergave van de collecties verhoogt de zichtbaarheid ervan voor zowel wetenschappers als beleidsmakers. 
