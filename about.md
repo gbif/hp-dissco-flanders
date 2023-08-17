@@ -1,6 +1,6 @@
 ---
 lang-ref: about
-layout: heroImage
+layout: compose
 klass: faq
 title: About
 description: |
@@ -8,16 +8,17 @@ description: |
 background: /assets/images/placeholders/Kabinet_Chaos_Save_As_Foto_Karin_Borghouts (1).jpg
 imageLicense: Photo by Karin Borghouts
 height: 60vh
-toc: true
-
+toc: false
 composition:
+  - type: heroImage
+  - type: markdown
+    data: custom.markdown_reporte
   - type: blank
     data: dashboard.dashboard
   - type: pageMarkdown
 ---
 ## Here will come the dashboard
 
-{{ site.data.dashboard.markdownContent }}
 
 <details markdown="1">
 
