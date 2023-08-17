@@ -10,12 +10,15 @@ imageLicense: Photo by Karin Borghouts
 height: 60vh
 toc: true
 
+{% include_relative dashboard.yml %}
+
 composition:
   - type: blank
     data: dashboard.dashboard
   - type: pageMarkdown
 ---
 ## Here will come the dashboard
+{{ page.dashboard.markdownContent }}
 
 <details markdown="1">
 
