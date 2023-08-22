@@ -50,6 +50,10 @@ partners:
         There are close to 10 000 DNA extracts stored in relation to our molecular activities. MeiseBG is busy mass digitizing its entire preserved collection of herbarium sheets which progress can be consulted here. The public can contribute to mobilise more data about our collections via our crowdsourcing platform. MeiseBG staff is expert in Biodiversity Information Standards and active member of TDWG. 
       background: /assets/images/placeholders/Logo_MeiseBotanicGarden_rgb-1536x794.jpg
       href: https://www.plantentuinmeise.be/en
+    - title: Belgian Biodiversity Platform
+      description: |      # required
+        
+      href: https://www.biodiversity.be/
     - title: Vrije Universiteit Brussel # required
       description: |      # required
         Vrije Universiteit Brussel (VUB) has relatively small collections and will also address its small lab or orphan collections within DiSSCo.
