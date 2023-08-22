@@ -52,6 +52,15 @@ partners:
         MeiseBG medewerkers zijn expert in Biodiversity Information Standards en actief lid van TDWG. 
       background: /assets/images/placeholders/Logo_MeiseBotanicGarden_rgb-1536x794.jpg
       href: https://www.plantentuinmeise.be/nl/
+    - title: Belgische Biodiversiteitsplatform 
+      description: |      # required
+        Het Belgische Biodiversiteitsplatform (BBPF) is een wetenschap-beleid interface-organisme gefinancierd door het Belgisch Wetenschapsbeleid (BELSPO) en wordt ondersteund door een Samenwerkingsovereenkomst 
+        tussen de federale en betrokken gefedereerde overheden. Binnen het domein van biodiversiteit fungeert het als bemiddelaar tussen beleid, wetenschap en praktijk. Om verlies aan biodiversiteit tegen te gaan, 
+        is het nodig dat verschillende belanghebbenden samenwerken, van overheidsinstanties tot wetenschappers, bedrijven, burgers, professionals en vele anderen. Het Platform onderhoudt bevoorrechte relaties met 
+        wetenschappers en beleidsmakers, maar onze strategische partners beperken zich niet tot deze twee gemeenschappen. In feite omvatten activiteiten rond wetenschap-beleidsinterfacing (WBI) bredere interacties 
+        tussen kennisdragers en mensen die betrokken zijn bij bestuur, besluitvorming en biodiversiteitsbeheer ter plaatse.
+      background: /assets/images/placeholders/Belgian-Biodiversity-Platform-e1580376501755.jpg
+      href: https://www.biodiversity.be/
     - title: Vrije Universiteit Brussel # required
       description: |      # required
         De Vrije Universiteit Brussel (VUB) heeft relatief kleine collecties en zal ook haar kleine laboratorium- of weescollecties binnen DiSSCo aanpakken. De VUB is zich bewust van het belang van de collecties, maar weet dat de
