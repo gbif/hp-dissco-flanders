@@ -52,7 +52,13 @@ partners:
       href: https://www.plantentuinmeise.be/en
     - title: Belgian Biodiversity Platform
       description: |      # required
-        
+        The Belgian Biodiversity Platform (BBPF) is a science-policy interface body funded by the Belgian Science Policy Office (BELSPO) and is supported by a 
+        Cooperation Agreement between the federal and concerned federated authorities. Within the field of biodiversity, it acts as a broker between policy, 
+        science and practice. To fight biodiversity loss, different types of stakeholders need to work hand- in-hand, from public authorities to scientists, 
+        businesses, citizens, practitioners and many more. The Platform maintains privileged relations with scientists and policymakers, but our strategic 
+        partners are not restricted to these two communities. Indeed, science-policy interfacing (SPI) activities encompass broader interactions between 
+        knowledge holders and people involved in governance, decision-making and biodiversity management on the ground.
+      background: /assets/images/placeholders/Belgian-Biodiversity-Platform-e1580376501755.jpg
       href: https://www.biodiversity.be/
     - title: Vrije Universiteit Brussel # required
       description: |      # required
