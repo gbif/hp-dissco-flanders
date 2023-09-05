@@ -17,15 +17,15 @@ composition:
     data: dashboard.dashboard
   - type: pageMarkdown
 ---
-<details markdown="1">
 
-<summary>
-DiSSCo Flanders PowerBI dashboard
-</summary>
+
+
+### DiSSCo Flanders PowerBI dashboard
+
 
 The DiSSCo Flanders use-case examined regional Flemish collections through a survey. Discover the findings of this research on natural science collections and gain insights into the historical and current state of biodiversity. The use of a PowerBI dashboard for the graphical representation of the collections enhances their visibility for both scientists and policymakers. 
 
-</details>
+
 
 --------
 
