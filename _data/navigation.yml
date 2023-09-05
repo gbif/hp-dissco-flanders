@@ -8,12 +8,14 @@
   href: /partners
 - text: Literature
   href: /literature/search
+- text: DoeDat
+  href: /DoeDat
 - text: News and events
   href: /news
 - text: Helpdesk
 #  menu: # Dropdown menu (one level deep only)
 # - text: Helpdesk
-  href: /example-pages/helpdesk
+  # href: /example-pages/helpdesk
  # - text: Complex
  #   href: /example-pages/complex
 # - text: Links
