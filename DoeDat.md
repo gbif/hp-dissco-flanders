@@ -10,6 +10,7 @@ height: 60vh
 composition: 
   - type: heroImage
   - type: media
+    data: examples.doedat
 ---
 ### [DoeDat](https://www.doedat.be/?lang=en_US)
 
