@@ -19,5 +19,5 @@ DoeDat is a citizen science project that engages volunteers in the transcription
 
 
 ### Data Accessibility: 
-Once data is digitized, it becomes accessible to the scientific and broader communities. Various mechanisms are used to make this data available, including websites like the [Global Biodiversity Information Facility](https://www.gbif.org/), [Botanical Collections](https://www.botanicalcollections.be/#/en/home) , [europeana.eu](https://www.europeana.eu/en), and [Plants.jstor] (https://plants.jstor.org/).org.
+Once data is digitized, it becomes accessible to the scientific and broader communities. Various mechanisms are used to make this data available, including websites like the [Global Biodiversity Information Facility](https://www.gbif.org/), [Botanical Collections](https://www.botanicalcollections.be/#/en/home) , [europeana.eu](https://www.europeana.eu/en), and [Plants.jstor]https://plants.jstor.org/).
 
