@@ -1,11 +1,11 @@
 ---
-layout: page # try to remoce this line (add # in the beginning of the line to make it a comment) - then the layout will change, but the content remain the same
+layout: post # try to remoce this line (add # in the beginning of the line to make it a comment) - then the layout will change, but the content remain the same
 title: Helpdesk
 description: 
 background: /assets/images/placeholders/BotanicalGarden_1_(c) Martin Corlazzoli.jpg
-imageLicense: Photo by Martin Corlazzoli
-  
-height: 70vh
+imageLicense: |
+  Photo by Martin Corlazzoli
+  height: 70vh
 ---
 
 The DiSSCo Flanders helpdesk aims at answering your questions related to the DiSSCo Flanders research
