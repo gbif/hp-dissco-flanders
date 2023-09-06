@@ -4,7 +4,7 @@ title: Helpdesk
 description: 
 background: /assets/images/placeholders/BotanicalGarden_1_(c) Martin Corlazzoli.jpg
 imageLicense: |
-  None for this image, but it would normally go here. Markdown is allowed.
+  Foto door Martin Corlazzoli
 height: 70vh
 ---
 
