@@ -10,5 +10,5 @@ height: 60vh
 composition: 
   - type: heroImage
   - type: media
-    data: examples.doedat
+    data: nl.examples.doedat
 ---
