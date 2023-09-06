@@ -1,5 +1,5 @@
 ---
-lang-ref: DoeDat
+lang-ref: doedat
 layout: compose # try to remoce this line (add # in the beginning of the line to make it a comment) - then the layout will change, but the content remain the same
 klass: DoeDat
 title: DoeDat
