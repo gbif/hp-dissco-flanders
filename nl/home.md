@@ -7,7 +7,7 @@ background: /assets/images/placeholders/GUM_CHAOS_Foto_Martin_Corlazzoli.jpg
 imageLicense: Photo by Martin Corlazzoli
 height: 90vh
 cta:
-  - text: Exemplaren
+  - text: Specimens
     href: /nl/exemplaren/zoekopdracht
     isPrimary: true
   - text: Over
