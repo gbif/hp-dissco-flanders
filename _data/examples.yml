@@ -37,7 +37,7 @@ herbariumImageExample:
 
 
 
-Host institution: 
+Host: 
   title: "Host institution"
   description: |
   
@@ -51,7 +51,7 @@ Host institution:
         digitizing its entire preserved collection of herbarium sheets which progress can be consulted on Botanical Collections (https://www.botanicalcollections.be). The public can contribute to mobilize more data about our collections via our crowdsourcing platform: DoeDat (https://www.doedat.be). 
         MeiseBG staff is expert in Biodiversity Information Standards and active member of TDWG.
 
-Flemish partners:
+Flemish:
   title: "Flemish Participating partners"
   description: |
   
@@ -118,7 +118,7 @@ Flemish partners:
       background: /assets/images/placeholders/vbta logo.png
       href: https://www.botanischetuinen.be/en/association
 
-Belgian entities:
+Belgian:
   title: "Belgian entities"
   description: |
   
