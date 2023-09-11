@@ -38,8 +38,8 @@ herbariumImageExample:
 
 Host: 
   - title: "Host institution"
-  description: |
-  features:
+    description: |
+    features:
     - title: "Meise Botanic Garden"
       description: |
         Meise Botanic Garden (MeiseBG): Besides acting as coordinator for Flanders and being the relay for FWB and RW, the institution contributes with their knowhow in both physical and digital collection management. 
@@ -53,8 +53,8 @@ Host:
 
 Flemish:
   - title: "Flemish Participating partners"
-  description: |
-  features:
+    description: |
+    features:
     - title: Vrije Universiteit Brussel 
       description: |      # required
         Vrije Universiteit Brussel (VUB) has relatively small collections and will also address its small lab or orphan collections within DiSSCo.
@@ -118,8 +118,8 @@ Flemish:
 
 Belgian:
   - title: "Belgian entities"
-  description: |
-  features:
+    description: |
+    features:
     - title: Belgian Biodiversity Platform
       description: |      # required
         The Belgian Biodiversity Platform (BBPF) is a science-policy interface body funded by the Belgian Science Policy Office (BELSPO) and is supported by a 
