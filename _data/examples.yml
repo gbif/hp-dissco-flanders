@@ -37,10 +37,8 @@ herbariumImageExample:
 
 
 
-
-
-partners:
-  title: "Participating partners"
+Host institution: 
+  title: "Host institution"
   description: |
   
   features:
@@ -52,18 +50,12 @@ partners:
         Belgian flora, the endemics of the Copper Hills in Katanga, and a unique collections of wild beans and bananas. There are close to 10 000 DNA extracts stored in relation to our molecular activities. MeiseBG is busy mass 
         digitizing its entire preserved collection of herbarium sheets which progress can be consulted on Botanical Collections (https://www.botanicalcollections.be). The public can contribute to mobilize more data about our collections via our crowdsourcing platform: DoeDat (https://www.doedat.be). 
         MeiseBG staff is expert in Biodiversity Information Standards and active member of TDWG.
-      background: /assets/images/placeholders/Logo_MeiseBotanicGarden_rgb-1536x794.jpg
-      href: https://www.plantentuinmeise.be/en
-    - title: Belgian Biodiversity Platform
-      description: |      # required
-        The Belgian Biodiversity Platform (BBPF) is a science-policy interface body funded by the Belgian Science Policy Office (BELSPO) and is supported by a 
-        Cooperation Agreement between the federal and concerned federated authorities. Within the field of biodiversity, it acts as a broker between policy, 
-        science and practice. To fight biodiversity loss, different types of stakeholders need to work hand- in-hand, from public authorities to scientists, 
-        businesses, citizens, practitioners and many more. The Platform maintains privileged relations with scientists and policymakers, but our strategic 
-        partners are not restricted to these two communities. Indeed, science-policy interfacing (SPI) activities encompass broader interactions between 
-        knowledge holders and people involved in governance, decision-making and biodiversity management on the ground.
-      background: /assets/images/placeholders/Belgian-Biodiversity-Platform-e1580376501755.jpg
-      href: https://www.biodiversity.be/
+
+Flemish partners:
+  title: "Flemish Participating partners"
+  description: |
+  
+  features:
     - title: Vrije Universiteit Brussel # required
       description: |      # required
         Vrije Universiteit Brussel (VUB) has relatively small collections and will also address its small lab or orphan collections within DiSSCo.
@@ -125,6 +117,22 @@ partners:
         Based on the information available for the gardens not listed above as part of the other consortium members, up to 25K herbarium specimens are present. The living collections are expressed in different metrics: number of individual plants (especially when counting trees), number of taxa or number of accessions. In the early 2000 a federal project called PlantCol, coordinated by MeiseBG, set the first steps to federate these valuable living botanic collections in Belgium under one portal. DiSSCo is the occasion to update this portal to modern standards and mobilize the data using standard metrics.
       background: /assets/images/placeholders/vbta logo.png
       href: https://www.botanischetuinen.be/en/association
+
+Belgian entities:
+  title: "Belgian entities"
+  description: |
+  
+  features:
+  - title: Belgian Biodiversity Platform
+      description: |      # required
+        The Belgian Biodiversity Platform (BBPF) is a science-policy interface body funded by the Belgian Science Policy Office (BELSPO) and is supported by a 
+        Cooperation Agreement between the federal and concerned federated authorities. Within the field of biodiversity, it acts as a broker between policy, 
+        science and practice. To fight biodiversity loss, different types of stakeholders need to work hand- in-hand, from public authorities to scientists, 
+        businesses, citizens, practitioners and many more. The Platform maintains privileged relations with scientists and policymakers, but our strategic 
+        partners are not restricted to these two communities. Indeed, science-policy interfacing (SPI) activities encompass broader interactions between 
+        knowledge holders and people involved in governance, decision-making and biodiversity management on the ground.
+      background: /assets/images/placeholders/Belgian-Biodiversity-Platform-e1580376501755.jpg
+      href: https://www.biodiversity.be/
     - title: The Royal Belgian Institute of Natural Sciences
       description: |      # required
         The Royal Belgian Institute of Natural Sciences (RBINS) houses exceptionally rich and diverse zoological, palaeoanthropological, mineralogical and prehistoric collections amounting to 38,000,000 specimens – this includes 200,000 types and illustrated specimens, and 100,000 primary types. This places RBINS in the world top 10 collections in terms of volume of specimens stored and available for research. RBINS is also undertaking an ambitious digitisation programme.
