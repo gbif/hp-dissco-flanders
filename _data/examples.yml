@@ -36,9 +36,8 @@ herbariumImageExample:
     isPrimary: true
 
 
-
 Host: 
-  title: "Host institution"
+  - title: "Host institution"
   description: |
   features:
     - title: "Meise Botanic Garden"
@@ -49,12 +48,14 @@ Host:
         Belgian flora, the endemics of the Copper Hills in Katanga, and a unique collections of wild beans and bananas. There are close to 10 000 DNA extracts stored in relation to our molecular activities. MeiseBG is busy mass 
         digitizing its entire preserved collection of herbarium sheets which progress can be consulted on Botanical Collections (https://www.botanicalcollections.be). The public can contribute to mobilize more data about our collections via our crowdsourcing platform: DoeDat (https://www.doedat.be). 
         MeiseBG staff is expert in Biodiversity Information Standards and active member of TDWG.
+      background: /assets/images/placeholders/Logo_MeiseBotanicGarden_rgb-1536x794.jpg
+      href: https://www.plantentuinmeise.be/en
 
 Flemish:
-  title: "Flemish Participating partners"
+  - title: "Flemish Participating partners"
   description: |
   features:
-    - title: Vrije Universiteit Brussel # required
+    - title: Vrije Universiteit Brussel 
       description: |      # required
         Vrije Universiteit Brussel (VUB) has relatively small collections and will also address its small lab or orphan collections within DiSSCo.
         Aware of the importance of collections, but knowing that the staff member in charge will retire soon and facing a rather low probability of a replacement, the VUB wishes to do an as complete as possible inventory and within DiSSCo decide on the workflow on how to deposit most of the collections elsewhere for safekeeping and better accessibility for scientific reuse, rather than invest in local repositories.
@@ -116,7 +117,7 @@ Flemish:
       href: https://www.botanischetuinen.be/en/association
 
 Belgian:
-  title: "Belgian entities"
+  - title: "Belgian entities"
   description: |
   features:
     - title: Belgian Biodiversity Platform
