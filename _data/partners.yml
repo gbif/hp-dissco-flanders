@@ -1,0 +1,12 @@
+Host:
+  title: "Host institution"
+  description: >
+    This is the description for the host institution.
+Flemish:
+  title: "Flemish Participating partners"
+  description: >
+    This is the description for Flemish participating partners.
+Belgian:
+  title: "Belgian entities"
+  description: >
+    This is the description for Belgian entities.
