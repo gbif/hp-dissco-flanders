@@ -11,9 +11,9 @@ height: 60vh
 composition:
   - type: heroImage # the block type
   - type: media
-    data: examples.Host
-    data: examples.Flemish
-    data: examples.Belgian
+    data_host: examples.Host
+    data_flemish: examples.Flemish
+    data_belgian: examples.Belgian
 ---
 
 Edit `/home.md` to change the text.
