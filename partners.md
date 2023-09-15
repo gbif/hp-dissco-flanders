@@ -1,21 +1,31 @@
 ---
-layout: default
+lang-ref: Partners
+layout: compose
+klass: Partners
 title: Partners
-description: Partners
+description: 
 background: /assets/images/placeholders/PLANTENTUIN_KID_Foto_Martin_Corlazzoli.jpg
 imageLicense: Photo by Martin Corlazzoli
+height: 60vh
+composition: 
+  - type: heroImage
+  - type: media
+    data: partners.yml
 ---
 
 # Partners
 
-## Host institution
+{% for section_name, section_data in site.data.partners %}
+## {{ section_data.title }}
 
-{{ site._data.partners.Host }}
+{% for feature in section_data.features %}
+### {{ feature.title }}
 
-## Flemish participating partners
+{{ feature.description | markdownify }}
 
-{{ site._data.partners.Flemish }}
+![Background]({{ feature.background }})
 
-## Belgian entities
+[Learn More]({{ feature.href }})
 
-{{ site._data.partners.Belgian }}
+{% endfor %}
+{% endfor %}
