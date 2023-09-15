@@ -8,14 +8,14 @@ imageLicense: Photo by Martin Corlazzoli
 
 # Partners
 
-## Host
+## Host institution
 
-{{ site.data.partners.Host.description }}
+{{ site._data.partners.Host }}
 
-## Flemish
+## Flemish participating partners
 
-{{ site.data.partners.Flemish.description }}
+{{ site._data.partners.Flemish }}
 
-## Belgian
+## Belgian entities
 
-{{ site.data.partners.Belgian.description }}
+{{ site._data.partners.Belgian }}
