@@ -11,5 +11,5 @@ height: 60vh
 composition:
   - type: heroImage # the block type
   - type: media
-    data_partners: examples.partners
+    data: examples.partners
 ---
