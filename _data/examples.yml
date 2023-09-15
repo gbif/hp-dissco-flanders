@@ -36,7 +36,7 @@ herbariumImageExample:
     isPrimary: true
 
 
-Host: 
+partners: 
   - title: "Host institution"
     description: |
     features:
@@ -50,11 +50,6 @@ Host:
         MeiseBG staff is expert in Biodiversity Information Standards and active member of TDWG.
       background: /assets/images/placeholders/Logo_MeiseBotanicGarden_rgb-1536x794.jpg
       href: https://www.plantentuinmeise.be/en
-
-Flemish:
-  - title: "Flemish Participating partners"
-    description: |
-    features:
     - title: Vrije Universiteit Brussel 
       description: |      # required
         Vrije Universiteit Brussel (VUB) has relatively small collections and will also address its small lab or orphan collections within DiSSCo.
@@ -115,11 +110,6 @@ Flemish:
         Based on the information available for the gardens not listed above as part of the other consortium members, up to 25K herbarium specimens are present. The living collections are expressed in different metrics: number of individual plants (especially when counting trees), number of taxa or number of accessions. In the early 2000 a federal project called PlantCol, coordinated by MeiseBG, set the first steps to federate these valuable living botanic collections in Belgium under one portal. DiSSCo is the occasion to update this portal to modern standards and mobilize the data using standard metrics.
       background: /assets/images/placeholders/vbta logo.png
       href: https://www.botanischetuinen.be/en/association
-
-Belgian:
-  - title: "Belgian entities"
-    description: |
-    features:
     - title: Belgian Biodiversity Platform
       description: |      # required
         The Belgian Biodiversity Platform (BBPF) is a science-policy interface body funded by the Belgian Science Policy Office (BELSPO) and is supported by a 
