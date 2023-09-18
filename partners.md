@@ -10,6 +10,6 @@ imageLicense: Photo by Martin Corlazzoli
 height: 60vh
 composition:
   - type: heroImage # the block type
-  - type: features
+  - type: media
     data: examples.partners
 ---
