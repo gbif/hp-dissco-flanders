@@ -13,3 +13,10 @@ composition:
   - type: media
     data: examples.partners
 ---
+## Participating partners
+
+### Host institution
+
+### Flemish participating partners
+
+### Belgian entities
