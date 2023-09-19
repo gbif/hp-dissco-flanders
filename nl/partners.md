@@ -11,7 +11,11 @@ height: 60vh
 composition:
   - type: heroImage # the block type
   - type: media
-    data: nl.examples.partners
+    data: nl.partners.Host
+  - type: media
+    data: nl.partners.Vlaams
+  - type: media
+    data: nl.partners.België
 ---
 
 Edit `/home.md` to change the text.
