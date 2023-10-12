@@ -29,7 +29,7 @@ var siteConfig = {
       predicate: {
         type: 'in',
         key: 'gbifDatasetKey',
-        values: ['b740eaa0-0679-41dc-acb7-990d562dfa37', '68c91b9a-2322-4f60-8d58-2c696a73a11c', 'b24d3bd0-e6d9-11dc-8b77-b8a03c50a862', 'ce416850-8934-11dc-9962-b8a03c50a862', '0310b080-ec4b-11dc-b73e-b8a03c50a862', '67caab70-ec4b-11dc-b73f-b8a03c50a862']
+        values: ['b740eaa0-0679-41dc-acb7-990d562dfa37', '68c91b9a-2322-4f60-8d58-2c696a73a11c', 'b24d3bd0-e6d9-11dc-8b77-b8a03c50a862', 'ce416850-8934-11dc-9962-b8a03c50a862', '0310b080-ec4b-11dc-b73e-b8a03c50a862', '67caab70-ec4b-11dc-b73f-b8a03c50a862', 'c9e31c10-6986-4795-8244-30ad2486d0bb']
       }
     },
     highlightedFilters: ['q', 'countriesOfResearcher', 'countriesOfCoverage', 'year']
@@ -44,7 +44,7 @@ var siteConfig = {
     // for his demo site we only show Fungi (taxonKey=5). It use the predicate structure known from GBIF download API. 
     // See https://www.gbif.org/developer/occurrence (long page without enough anchors - search for "Occurrence Download Predicates")
     // The format is however slightly different, in that is use camelCase for keys instead of CONSTANT_CASE. 
-    rootPredicate: { type: 'in', key: 'datasetKey', values: ['b740eaa0-0679-41dc-acb7-990d562dfa37', '68c91b9a-2322-4f60-8d58-2c696a73a11c', 'b24d3bd0-e6d9-11dc-8b77-b8a03c50a862', 'ce416850-8934-11dc-9962-b8a03c50a862', '0310b080-ec4b-11dc-b73e-b8a03c50a862', '67caab70-ec4b-11dc-b73f-b8a03c50a862'] },
+    rootPredicate: { type: 'in', key: 'datasetKey', values: ['b740eaa0-0679-41dc-acb7-990d562dfa37', '68c91b9a-2322-4f60-8d58-2c696a73a11c', 'b24d3bd0-e6d9-11dc-8b77-b8a03c50a862', 'ce416850-8934-11dc-9962-b8a03c50a862', '0310b080-ec4b-11dc-b73e-b8a03c50a862', '67caab70-ec4b-11dc-b73f-b8a03c50a862', 'c9e31c10-6986-4795-8244-30ad2486d0bb'] },
     // occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'] // what tabs should be shown
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
   }
