@@ -80,11 +80,11 @@ Vlaams:
         kerncollectie van mariene repositories. Deze repository bevat mariene sedimentmonsters die van groot belang zijn voor oceaanonderzoek. Ze worden gebruikt voor onderzoek naar klimaat, milieu, vele andere mariene geologische studies en voor onderwijs. 
       background: /assets/images/placeholders/vliz logo.png
       href: https://www.vliz.be/nl
-    - title: Koninklijke Zoölogische Vereniging Antwerpen
+    - title: Koninklijke Maatschappij voor Dierkunde van Antwerpen
       description: |      # required
-        Koninklijke Zoölogische Vereniging Antwerpen (KDMA) beheert drie dierentuinen in Vlaanderen (ZOO Antwerpen, ZOO Planckendael en ZOO Serpentarium), het natuurgebied De Zegge in Geel en het 
+        Koninklijke Maatschappij voor Dierkunde van Antwerpen (KMDA) beheert drie dierentuinen in Vlaanderen (ZOO Antwerpen, ZOO Planckendael en ZOO Serpentarium), het natuurgebied De Zegge in Geel en het 
         Flanders Meeting and Convention Center Antwerpen. Het KMDA Centrum voor Onderzoek en Behoud speelt een leidende rol in de wereldwijde dierentuingemeenschap op het vlak van wetenschappelijk onderzoek en 
-        behoud van bedreigde diersoorten en hun habitats. In DiSSCo zal KDMA een sleutelrol spelen op het gebied van levende zoölogische collecties, evenals genetische, weefsel- en celcollecties. De levende collecties 
+        behoud van bedreigde diersoorten en hun habitats. In DiSSCo zal KMDA een sleutelrol spelen op het gebied van levende zoölogische collecties, evenals genetische, weefsel- en celcollecties. De levende collecties 
         omvatten 9K individuele dieren van 662 soorten, evenals een arboretum. Bovendien spelen ze een belangrijke rol als link met de European Association of Zoos and Aquariums (EAZA) en de bredere dierentuingemeenschap. 
         KMDA herbergt een van de vier fysieke locaties van de EAZA BioBank, die gekoppeld is aan de Zoological Information Management Software (ZIMS); één gecentraliseerde online database voor de wereldwijde dierentuingemeenschap 
         die vele miljoenen individuele records bevat van ongeveer 20K verschillende soorten. Hun ervaring met de gegevensbeheersystemen die in dit domein worden gebruikt, zal waardevol zijn voor de implementatie van DiSSCo. 
@@ -92,7 +92,7 @@ Vlaams:
       href: https://www.zooantwerpen.be/en/antwerp-zoo-society/
     - title: Vereniging van Botanische Tuinen en Arboreta
       description: |      # required
-        De Vereniging van Botanische Tuinen en Arboreta (VBTA) is een Belgische vereniging met rechtspersoonlijkheid in Vlaanderen (gevestigd in MeiseBG). Aan boord bevinden zich de grootste botanische tuinen van België, alsook 
+        De Vereniging van Botanische Tuinen en Arboreta (V.B.T.A.) is een Belgische vereniging met rechtspersoonlijkheid in Vlaanderen (gevestigd in Meise). Aan boord bevinden zich de grootste botanische tuinen van België, alsook 
         verschillende kleinere arboreta. Van de 21 vermelde tuinen bevinden er zich 19 in Vlaanderen. In totaal herbergen ze naar schatting meer dan 30K verschillende plantensoorten. Op basis van de beschikbare 
         informatie voor de tuinen die niet hierboven niet vermeld staan als onderdeel van de andere leden van het consortium, zijn er tot 25K herbariumspecimens aanwezig. De levende collecties worden uitgedrukt in verschillende metrieken: 
         aantal individuele planten (vooral bij het tellen van bomen), aantal taxa of aantal accessies. In het begin van de jaren 2000 zette een federaal project genaamd PlantCol, gecoördineerd door MeiseBG, de eerste stappen 
