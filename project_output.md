@@ -2,9 +2,8 @@
 lang-ref: project output
 layout: compose
 klass: project output
-title: Project output
+title: project output
 description: 
-
 background: /assets/images/placeholders/PLANTENTUIN_KID_Foto_Martin_Corlazzoli.jpg
 imageLicense: Photo by Martin Corlazzoli
 height: 60vh
