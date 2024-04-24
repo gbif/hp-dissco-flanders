@@ -47,4 +47,15 @@ doedat:
   features:
     - title:
       description: |
-        [DoeDat](https://www.doedat.be) werd gefinancierd door de Vlaamse Overheid via het project DOE! (Digitale Ontsluiting Erfgoedcollecties). Het doel van DOE! was om culturele erfgoedcollecties digitaal toegankelijk te maken.   
+        [DoeDat](https://www.doedat.be) werd gefinancierd door de Vlaamse Overheid via het project DOE! (Digitale Ontsluiting Erfgoedcollecties). Het doel van DOE! was om culturele erfgoedcollecties digitaal toegankelijk te maken. 
+
+projectoutput:
+  title: "projectoutput"
+  description: |
+    List of publications
+  background: /assets/images/placeholders/doedat_logo.jpg
+  href: 
+  features:
+    - title:
+      description: |
+                
