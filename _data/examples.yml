@@ -54,7 +54,7 @@ projectoutput:
   title: "Project output"
   description: |
     **List of publications** 
-  background: /assets/images/placeholders/logo doedat.png
+  background:
   href: 
   features:
     - title:
