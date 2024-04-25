@@ -1,41 +1,12 @@
 publications:
-  - title: "Implementation Experience Report for the Developing Latimer Core Standard: The DiSSCo Flanders use-case"
-    authors: "Breugelmans L. & Trekels M."
-    year: 2023
-    journal: "Biodiversity Information Science and Standards"
-    volume: 7
-    page: "e113766"
-    doi: "https://doi.org/10.3897/biss.7.113766"
-
-  - title: "Species detection and segmentation of multi-specimen historical herbaria"
-    authors: "Chandrasekar K.K.T., Milleville K. & Verstockt S."
-    year: 2021
-    journal: "Biodiversity Information Science and Standards"
-    volume: 5
-    page: "e74060"
-    doi: "https://doi.org/10.3897/biss.5.74060"
-
-  - title: "Meta data enrichment for improving the quality and usability of botanical collections"
-    authors: "Chandrasekar T. & Kumar K."
-    year: 2022
-    type: "PhD Thesis"
-    institution: "Ghent University"
-    url: "http://hdl.handle.net/1854/LU-8760438"
-
-  - title: "Field Collection"
-    authors: "Corrales, C., Forrest, L., Harris, D., Dickie, J., Fulcher, T., Paton, A., Haston, E., Haring, E., Vandelook, F., Thines, M., Kahila, G., Vondráček, D., von Rintelen, T., Emery, A., Krukenhauser, L., Martín, M. P., Sanmartín, I., Ruiz, Y., Diéguez-Uribeondo, J., ... Astrin, J. J."
-    year: 2023
-    book_title: "Biodiversity Biobanking – a Handbook on Protocols and Practices"
-    editors: "C. Carolina, & J. J. Astrin"
-    pages: "22-77"
-    publisher: "Pensoft Publishers"
-    doi: "https://doi.org/10.3897/ab.e101876"
-
-  - title: "Biobank Management"
-    authors: "Corrales, C., Leliaert, F., & Astrin, J. J."
-    year: 2023
-    book_title: "Biodiversity Biobanking – a Handbook on Protocols and Practices"
-    editors: "C. Carolina, & J. J. Astrin"
-    pages: "13-17"
-    publisher: "Pensoft Publishers"
-    doi: "https://doi.org/10.3897/ab.e101876"
+  title: "DiSSCo Flanders publication output"
+  description: >
+  features:
+    - title: "Paper 1"
+      description: |
+        Breugelmans L. & Trekels M. 2023. Implementation Experience Report for the Developing Latimer Core Standard: The DiSSCo Flanders use-case. Biodiversity Information Science and Standards 7: e113766.
+      href: https://doi.org/10.3897/biss.7.113766
+    - title: "Paper 2"
+      description: |
+        Chandrasekar K.K.T., Milleville K. & Verstockt S. 2021. Species detection and segmentation of multi-specimen historical herbaria. Biodiversity Information Science and Standards 5: e74060.
+      href: https://doi.org/10.3897/biss.5.74060
