@@ -49,13 +49,3 @@ doedat:
     - title:
       description: |
         [DoeDat](https://www.doedat.be/?lang=en_US) is associated with the DOE! project, which started in 2004 and was funded by the Flemish Government. The goal of DOE! was to provide digital access to cultural heritage collections.
-
-projectoutput:
-  title: "Project output"
-  description: |
-    **List of publications** 
-  background:    # Background value here
-  href:         # Href value here
-  features:
-    - title:     # Title value here
-      description: |  # Description value here
