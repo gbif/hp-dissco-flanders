@@ -10,15 +10,11 @@
   href: /literature/search
 - text: DoeDat
   href: /DoeDat
-- text: Project Output
-  href: project_output
-- text: TESTProject Output
-  href: /publications/search
+- text: Project output
+  href: /output
 - text: News and events
   href: /news
 - text: Helpdesk
-#  menu: # Dropdown menu (one level deep only)
-# - text: Helpdesk
   href: /helpdesk
  # - text: Complex
  #   href: /example-pages/complex

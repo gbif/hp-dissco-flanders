@@ -1,14 +1,13 @@
 ---
-lang-ref: Project Output
-layout: compose
-klass: Project Output
-title: Project Output
-description:
-background: /assets/images/placeholders/collections_small.jpg 
-imageLicense: 
+lang-ref: output
+layout: home
+title: "Project output"
+background: /assets/images/placeholders/collections_small.jpg
 height: 60vh
-composition: 
+description: DiSSCo Flanders publication output
+permalink: /output
+composition:
   - type: heroImage
   - type: media
-    data: project_output.publications
+    data: project_output.output
 ---

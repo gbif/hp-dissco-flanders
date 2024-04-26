@@ -1,12 +1,12 @@
-publications:
-  title: "DiSSCo Flanders publication output"
+output:
+  title: Publications 2023
   description: >
   features:
-    - title: "Paper 1"
+    - title: "Implementation Experience Report for the Developing Latimer Core Standard: The DiSSCo Flanders use-case"
       description: |
         Breugelmans L. & Trekels M. 2023. Implementation Experience Report for the Developing Latimer Core Standard: The DiSSCo Flanders use-case. Biodiversity Information Science and Standards 7: e113766.
       href: https://doi.org/10.3897/biss.7.113766
-    - title: "Paper 2"
+    - title: "Biobank Management"
       description: |
-        Chandrasekar K.K.T., Milleville K. & Verstockt S. 2021. Species detection and segmentation of multi-specimen historical herbaria. Biodiversity Information Science and Standards 5: e74060.
-      href: https://doi.org/10.3897/biss.5.74060
+        Corrales, C., Leliaert, F., & Astrin, J. J. (2023). Biobank Management. In C. Carolina, & J. J. Astrin (Eds.), Biodiversity Biobanking – a Handbook on Protocols and Practices (pp. 13-17). (Advanced Books). Pensoft Publishers.
+      href: https://doi.org/10.3897/ab.e101876
