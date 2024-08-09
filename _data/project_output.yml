@@ -2,15 +2,15 @@ output:
   title: Publications
   description: >
   features:
-    - title: "Ten lessons learned from the mass digitisation of a herbarium collection"
-      description: |
-        De Smedt S., Bogaerts A., De Meeter N., Dillen M., Engledow H., Van Wambeke P., Leliaert F., Groom Q. 2024. Ten lessons learned from the mass digitisation of a herbarium collection. PhytoKeys 244: 23-37.
-      href: https://doi.org/10.3897/phytokeys.244.120112
-    - title: "The Meise Botanic Garden Herbarium Data Management Plan"
-      description: |
-        Dillen M., Abraham L., Bogaerts A., De Smedt S., Engledow H., Leliaert F., Trekels M., Dessein S., Groom Q. (2024). The Meise Botanic Garden Herbarium Data Management Plan. Research Ideas and Outcomes 10: e124288.
-      href: https://doi.org/10.3897/rio.10.e124288
-    - title: "GBIF hosted portals for DiSSCo nodes, and university collections use cases"
-      description: |
-        Trekels M. 2024. GBIF hosted portals for DiSSCo nodes, and university collections use cases. Empowering Biodiversity Research III conference, Naturalis, Netherlands, March 25-26th 2024.
-      href:
+   - title: "Ten lessons learned from the mass digitisation of a herbarium collection"
+     description: |
+      De Smedt S., Bogaerts A., De Meeter N., Dillen M., Engledow H., Van Wambeke P., Leliaert F., Groom Q. 2024. Ten lessons learned from the mass digitisation of a herbarium collection. PhytoKeys 244: 23-37.
+    href: https://doi.org/10.3897/phytokeys.244.120112
+   - title: "The Meise Botanic Garden Herbarium Data Management Plan"
+    description: |
+      Dillen M., Abraham L., Bogaerts A., De Smedt S., Engledow H., Leliaert F., Trekels M., Dessein S., Groom Q. (2024). The Meise Botanic Garden Herbarium Data Management Plan. Research Ideas and Outcomes 10: e124288.
+    href: https://doi.org/10.3897/rio.10.e124288
+   - title: "GBIF hosted portals for DiSSCo nodes, and university collections use cases"
+     description: |
+      Trekels M. 2024. GBIF hosted portals for DiSSCo nodes, and university collections use cases. Empowering Biodiversity Research III conference, Naturalis, Netherlands, March 25-26th 2024.
+    href:
