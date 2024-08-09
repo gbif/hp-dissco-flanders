@@ -22,6 +22,7 @@ output:
       description: |
         Van Baelen A., Poot N. & Goossens E. Mobilizing KU Leuven’s natural science collections as part of DiSSCo Flanders. Abstract submitted to the 2024 Joint Annual Meeting of ICOM-UMAC and UNIVERSEUM “Shaping Transformation. University Collections in a Changing World” in Dresden (Germany), 24/09/2024 – 29/09/2024 (accepted).
       href:
+
     - title: "Implementation Experience Report for the Developing Latimer Core Standard: The DiSSCo Flanders use-case"
       description: |
         Breugelmans L. & Trekels M. 2023. Implementation Experience Report for the Developing Latimer Core Standard: The DiSSCo Flanders use-case. Biodiversity Information Science and Standards 7: e113766. https://doi.org/10.3897/biss.7.113766 
@@ -90,6 +91,7 @@ output:
       description: |
         Nicolson N., Trekels M., Groom Q.J., Knapp S. & Paton A.J. 2023. Global access to nomenclatural botanical resources: Evaluating open access availability. Plants, People, Planet 5 (6): 899–907. https://doi.org/10.1002/ppp3.10438 
       href: https://doi.org/10.1002/ppp3.10438
+
     - title: "Meta data enrichment for improving the quality and usability of botanical collections"
       description: |
         Chandrasekar T. & Kumar K. 2022. Meta data enrichment for improving the quality and usability of botanical collections. PhD Thesis, Ghent University. http://hdl.handle.net/1854/LU-8760438
@@ -138,6 +140,7 @@ output:
       description: |
         Van Baelen A., Poot N., Beirinckx L., Bogaerts A., Bellefroid E., Claerhout T., De Smedt S., Dugardin C., Engledow H., Leliaert F., et al. 2022. DiSSCo-Flanders WP2-task 2.1, Detailed inventory of the collections: Report. https://doi.org/10.5281/zenodo.6511351
       href: https://doi.org/10.5281/zenodo.6511351 
+
     - title: "Species detection and segmentation of multi-specimen historical herbaria"
       description: |
         Chandrasekar K.K.T., Milleville K. & Verstockt S. 2021. Species detection and segmentation of multi-specimen historical herbaria. Biodiversity Information Science and Standards 5: e74060. https://doi.org/10.3897/biss.5.74060 
@@ -162,10 +165,12 @@ output:
       description: |
         Woodburn M, Droege G, Grant S, Groom Q, Jones J, Trekels M, Vincent S, Webbink K (2021) A Data Standard for Dynamic Collection Descriptions. Biodiversity Information Science and Standards 5: e73902. https://doi.org/10.3897/biss.5.73902
       href: https://doi.org/10.3897/biss.5.73902
+
     - title: "Page boundary extraction of bound historical herbaria"
       description: |
         Thirukokaranam Chandrasekar K.K. & Verstockt S. 2020. Page boundary extraction of bound historical herbaria. In: 12th International Conference on Agents and Artificial Intelligence (ICAART): 476–483. https://doi.org/10.5220/0009154104760483
       href: https://doi.org/10.5220/0009154104760483
+
     - title: "Origins and key contributors to the economic botany collection of Meise Botanic Garden"
       description: |
         Leyman V. & Leliaert F. Origins and key contributors to the economic botany collection of Meise Botanic Garden. Proceedings of the Royal Academy for Overseas Sciences (submitted).
