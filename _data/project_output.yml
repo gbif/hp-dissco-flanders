@@ -52,16 +52,16 @@ output:
       href: https://dissco.github.io/Digitisation/PreDigCuration/PreDigCuration.html 
     - title: "Ten lessons learned from the mass digitisation of a herbarium collection"
       description: |
-        De Smedt S., Bogaerts A., De Meeter N., Dillen M., Engledow H., Van Wambeke P., Leliaert F., Groom Q. 2024. Ten lessons learned from the mass digitisation of a herbarium collection. Submitted.
-      href: 
+        De Smedt S., Bogaerts A., De Meeter N., Dillen M., Engledow H., Van Wambeke P., Leliaert F., Groom Q. 2024. Ten lessons learned from the mass digitisation of a herbarium collection. PhytoKeys 244: 23-37.
+      href: https://doi.org/10.3897/phytokeys.244.120112
     - title: "Calculating the Digitization Level of Specimens with the Minimum Information about a Digital Specimen (MIDS) Standard"
       description: |
         Dillen M., Huybrechts P., Groom Q. & Delgat L. 2022. Calculating the Digitization Level of Specimens with the Minimum Information about a Digital Specimen (MIDS) Standard. Biodiversity Information Science and Standards 6: e90879. https://doi.org/10.3897/biss.6.90879
       href: https://doi.org/10.3897/biss.6.90879
     - title: "The Meise Botanic Garden Herbarium Data Management Plan"
       description: |
-        Dillen M., Abraham L., Bogaerts A., De Smedt S., Engledow H., Leliaert F., Trekels M., Dessein S., Groom Q. The Meise Botanic Garden Herbarium Data Management Plan. Submitted.
-      href: 
+        Dillen M., Abraham L., Bogaerts A., De Smedt S., Engledow H., Leliaert F., Trekels M., Dessein S., Groom Q. The Meise Botanic Garden Herbarium Data Management Plan. Research Ideas and Outcomes 10: e124288.
+      href: https://doi.org/10.3897/rio.10.e124288
     - title: "Planning the migration to a new database: implications for the collections of Meise Botanic Garden"
       description: |
         Engledow H., Bogaerts A., De Smedt S. & Tack W. 2023. Planning the migration to a new database: implications for the collections of Meise Botanic Garden. Biodiversity Information Science and Standards 7: e111422. https://doi.org/10.3897/biss.7.111422 
@@ -156,12 +156,16 @@ output:
       href: https://doi.org/10.5281/zenodo.6511351 
     - title: "Unlocking KU Leuven’s natural science collections"
       description: |
-        Van Baelen A., Poot N. & Goossens E. Unlocking KU Leuven’s natural science collections. Proceedings of KU Leuven Open Science Day 2024 (accepted).
-      href:
+        Van Baelen A., Poot N. & Goossens E. Unlocking KU Leuven’s natural science collections. Proceedings of KU Leuven Open Science Day 2024.
+      href: https://lirias.kuleuven.be/retrieve/759388
     - title: "Mobilizing KU Leuven’s natural science collections as part of DiSSCo Flanders"
       description: |
         Van Baelen A., Poot N. & Goossens E. Mobilizing KU Leuven’s natural science collections as part of DiSSCo Flanders. Abstract submitted to the 2024 Joint Annual Meeting of ICOM-UMAC and UNIVERSEUM “Shaping Transformation. University Collections in a Changing World” in Dresden (Germany), 24/09/2024 – 29/09/2024 (accepted).
       href:
+    - title: "A Data Standard for Dynamic Collection Descriptions"
+      description: |
+        Woodburn M, Droege G, Grant S, Groom Q, Jones J, Trekels M, Vincent S, Webbink K (2021) A Data Standard for Dynamic Collection Descriptions. Biodiversity Information Science and Standards 5: e73902. https://doi.org/10.3897/biss.5.73902
+      href: https://doi.org/10.3897/biss.5.73902
     - title: "A Data Standard for Dynamic Collection Descriptions"
       description: |
         Woodburn M, Droege G, Grant S, Groom Q, Jones J, Trekels M, Vincent S, Webbink K (2021) A Data Standard for Dynamic Collection Descriptions. Biodiversity Information Science and Standards 5: e73902. https://doi.org/10.3897/biss.5.73902
