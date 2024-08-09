@@ -63,7 +63,7 @@ features:
       description: |
         Groom Q., Dillen M., Addink W., Ariño A.H., Bölling C., Bonnet P., Cecchi L., Ellwood E.R., Figueira R., Gagnier P.-Y., & others 2023. Envisaging a global infrastructure to exploit the potential of digitised collections. Biodiversity Data Journal 11: e109439. https://doi.org/10.3897/BDJ.11.e109439
       href: https://doi.org/10.3897/BDJ.11.e109439
-     - title: "Mapping across Standards to Calculate the MIDS Level of Digitisation of Natural Science Collections"
+    - title: "Mapping across Standards to Calculate the MIDS Level of Digitisation of Natural Science Collections"
       description: |
         Haston E., Dillen M., Leeflang S., Addink W., Weiland C., Triebel D., Rindal E., Penzlin A., Walcott R., Humphries J., et al. 2023. Mapping across Standards to Calculate the MIDS Level of Digitisation of Natural Science Collections. Biodiversity Information Science and Standards 7: e112672. https://doi.org/10.3897/biss.7.112672
       href: https://doi.org/10.3897/biss.7.112672
@@ -111,7 +111,7 @@ features:
       description: |
         Groom Q., Bräuchler C., Cubey R.W., Dillen M., Huybrechts P., Kearney N., Klazenga N., Leachman S., Paul D.L., Rogers H., & others 2022. The disambiguation of people names in biological collections. Biodiversity Data Journal 10: e86089. https://doi.org/10.3897%2FBDJ.10.e86089
       href: https://doi.org/10.3897%2FBDJ.10.e86089
-     - title: "How Much of Biodiversity is Represented in Collections: A big data workflow of aggregated occurrence data"
+    - title: "How Much of Biodiversity is Represented in Collections: A big data workflow of aggregated occurrence data"
       description: |
         Huybrechts P., Trekels M. & Groom Q. 2022. How Much of Biodiversity is Represented in Collections: A big data workflow of aggregated occurrence data. Biodiversity Information Science and Standards 6: e94279. https://doi.org/10.3897/biss.6.94279
       href: https://doi.org/10.3897/biss.6.94279
