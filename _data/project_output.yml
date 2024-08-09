@@ -1,7 +1,8 @@
 output:
   title: Publications
   description: >
-  features:
+
+features:
     - title: "Ten lessons learned from the mass digitisation of a herbarium collection"
       description: |
         De Smedt S., Bogaerts A., De Meeter N., Dillen M., Engledow H., Van Wambeke P., Leliaert F., Groom Q. 2024. Ten lessons learned from the mass digitisation of a herbarium collection. PhytoKeys 244: 23-37.
