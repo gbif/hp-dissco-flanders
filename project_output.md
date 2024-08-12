@@ -9,5 +9,15 @@ permalink: /output
 composition:
   - type: heroImage
   - type: media
-    data: project_output.output
+    data: project_output.Output year 2024
+  - type: media
+    data: project_output.Output year 2023
+  - type: media
+    data: project_output.Output year 2022
+  - type: media
+    data: project_output.Output year 2021
+  - type: media
+    data: project_output.Output year 2020
+  - type: media
+    data: project_output.Output
 ---
