@@ -2,6 +2,10 @@ Output year 2024:
   title: Publications from 2024
   description: >
   features:
+    - title: "Origins and key contributors to the economic botany collection of Meise Botanic Garden"
+      description: |
+        Leyman V. & Leliaert F. (2024). Origins and key contributors to the economic botany collection of Meise Botanic Garden. Proceedings of the Royal Academy for Overseas Sciences.
+      href: https://www.kaowarsom.be/documents/PDF%20BULLETIN/LEYMAN_LELIAERT.pdf
     - title: "The Meise Botanic Garden Herbarium Data Management Plan"
       description: |
         Dillen M., Abraham L., Bogaerts A., De Smedt S., Engledow H., Leliaert F., Trekels M., Dessein S., Groom Q. (2024). The Meise Botanic Garden Herbarium Data Management Plan. Research Ideas and Outcomes 10: e124288. https://doi.org/10.3897/rio.10.e124288
@@ -182,11 +186,7 @@ Output year 2020:
       description: |
         Thirukokaranam Chandrasekar K.K. & Verstockt S. (2020). Page boundary extraction of bound historical herbaria. In: 12th International Conference on Agents and Artificial Intelligence (ICAART): 476–483. https://doi.org/10.5220/0009154104760483
       href: https://doi.org/10.5220/0009154104760483
-Output:
+#Output:
   title: Submitted 
   description: >
   features:
-    - title: "Origins and key contributors to the economic botany collection of Meise Botanic Garden"
-      description: |
-        Leyman V. & Leliaert F. Origins and key contributors to the economic botany collection of Meise Botanic Garden. Proceedings of the Royal Academy for Overseas Sciences (submitted).
-      href:
