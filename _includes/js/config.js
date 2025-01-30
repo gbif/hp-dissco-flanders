@@ -46,8 +46,3 @@ var siteConfig = {
   }
 };
 
-// example of a language specific route overwrite
-if (pageLang === 'nl') {
-  siteConfig.routes.literatureSearch.route = '/literatuur/zoekopdracht';
-  siteConfig.routes.occurrenceSearch.route = '/exemplaren/zoekopdracht';
-}

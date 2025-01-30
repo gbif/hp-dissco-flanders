@@ -8,7 +8,7 @@ imageLicense: Photo by Martin Corlazzoli
 height: 90vh
 cta:
   - text: Specimens
-    href: /nl/exemplaren/zoekopdracht
+    href: /nl/specimen/search
     isPrimary: true
   - text: Over
     href: /nl/over/
