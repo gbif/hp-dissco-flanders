@@ -1,23 +1,19 @@
 ---
 lang-ref: output
-layout: home
-title: "Project output"
+layout: heroImage
+title: Project output
+description: DiSSCo Flanders publication output
 background: /assets/images/placeholders/collections_small.jpg
 height: 60vh
-description: DiSSCo Flanders publication output
 permalink: /output
-composition:
-  - type: heroImage
-  - type: media
-    data: project_output.Output year 2024
-  - type: media
-    data: project_output.Output year 2023
-  - type: media
-    data: project_output.Output year 2022
-  - type: media
-    data: project_output.Output year 2021
-  - type: media
-    data: project_output.Output year 2020
-  - type: media
-    data: project_output.Output
+toc: true
 ---
+
+## 2025
+
+Breyne L, Veltjen E, Depecker J, Pereboom Z, Verstockt S, Van Baelen A, Leliaert F (2025). DiSSCo Flanders 2.0: Communication Plan. Zenodo. <https://doi.org/10.5281/zenodo.16794065>
+
+Leliaert F, De Wever A, Van Baelen A, Veltjen E, Vandepitte L, Breyne L (2025). DiSSCo Flanders 2.0: Quantitative and qualitative impact analysis. Zenodo. <https://doi.org/10.5281/zenodo.16793934>
+
+## 2024
+
