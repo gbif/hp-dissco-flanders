@@ -1,11 +1,11 @@
 ---
 lang-ref: Project resultaten
 layout: heroImage
-title: Project resultaten
+title: "Project resultaten"
 description: Publicaties van DiSSCo Flanders
 background: /assets/images/placeholders/collections_small.jpg
 height: 60vh
-permalink: /output
+permalink: /nl/projectresultaten
 toc: true
 ---
 
