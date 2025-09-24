@@ -1,7 +1,7 @@
 ---
-lang-ref: output
+lang-ref: Project resultaten
 layout: heroImage
-title: Project output
+title: Project resultaten
 description: Publicaties van DiSSCo Flanders
 background: /assets/images/placeholders/collections_small.jpg
 height: 60vh
