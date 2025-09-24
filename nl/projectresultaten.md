@@ -1,5 +1,5 @@
 ---
-lang-ref: Project resultaten
+lang-ref: output
 layout: heroImage
 title: "Project resultaten"
 description: Publicaties van DiSSCo Flanders
