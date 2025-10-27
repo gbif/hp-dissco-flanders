@@ -11,6 +11,9 @@ toc: true
 
 ## 2025
 
+Teunen L, Veltjen E, Desender M, Geeraerts C (2025). The INBO Fish Tissue Collection: a historical resource. https://pureportal.inbo.be/nl/publications/the-inbo-fish-tissue-collection-a-historical-resource
+
+
 Breyne L, Veltjen E, Depecker J, Pereboom Z, Verstockt S, Van Baelen A, Leliaert F (2025). DiSSCo Flanders 2.0: Communication Plan. Zenodo. <https://doi.org/10.5281/zenodo.16794065>
 
 
