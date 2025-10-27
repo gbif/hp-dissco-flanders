@@ -76,7 +76,13 @@ Flemish:
         Based on the information available for the gardens not listed above as part of the other consortium members, up to 25K herbarium specimens are present. The living collections are expressed in different metrics: number of individual plants (especially when counting trees), number of taxa or number of accessions. In the early 2000 a federal project called PlantCol, coordinated by MeiseBG, set the first steps to federate these valuable living botanic collections in Belgium under one portal. DiSSCo is the occasion to update this portal to modern standards and mobilize the data using standard metrics.
       background: /assets/images/placeholders/vbta logo.png
       href: https://www.botanischetuinen.be/en/association
-
+    - title: Institute of Tropical Medicine
+      description: |      # required
+        ITM strives for the advancement of science and health for all, through innovative research, advanced education, professional medical services and capacity sharing with partner institutions in Africa, Asia and Latin America. 
+        As a reference institute connected with researchers worldwide, ITM stores a large amount of human and non-human material and data. Unlocking the historic collections for the international research community with fair access to high quality collections is one of ITM’s scientific goals. 
+        ITM participates in the DiSSCo project with its Prof Van Marck collection (human origin), its insect collection, and its historical wet specimen collection (human and non-human origin).
+      background: /assets/images/placeholders/ITM-logo_col_rgb.jpg
+      href: https://www.itg.be/en
 Belgian:
   title: "Belgian entities"
   description: >
