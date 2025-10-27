@@ -11,12 +11,21 @@ toc: true
 
 ## 2025
 
-Breyne L, Veltjen E, Depecker J, Pereboom Z, Verstockt S, Van Baelen A, Leliaert F (2025). DiSSCo Flanders 2.0: Communication Plan. Zenodo. <https://doi.org/10.5281/zenodo.16794065>
+Veltjen E, De Wever, A (2025). DMP van DiSSCo Flanders 2 (INBO): versie 1. Instituut voor Natuur- en Bosonderzoek. <https://pureportal.inbo.be/nl/publications/dmp-van-dissco-flanders-2-inbo-versie-1> 
 
+Teunen L, Veltjen E, Desender M, Geeraerts C (2025). The INBO Fish Tissue Collection: a historical resource. <https://pureportal.inbo.be/nl/publications/the-inbo-fish-tissue-collection-a-historical-resource> 
+
+Breyne L, Veltjen E, Depecker J, Pereboom Z, Verstockt S, Van Baelen A, Leliaert F (2025). DiSSCo Flanders 2.0: Communication Plan. Zenodo. <https://doi.org/10.5281/zenodo.16794065>
 
 Leliaert F, De Wever A, Van Baelen A, Veltjen E, Vandepitte L, Breyne L (2025). DiSSCo Flanders 2.0: Quantitative and qualitative impact analysis. Zenodo. <https://doi.org/10.5281/zenodo.16793934>
 
 ## 2024
+
+Veltjen E, Brosens D, Cools N, De Cuyper B, De Vos B, D'hondt B, Herr C, Lambeens I, Maebe K, Lettens S, Pollet M, Soors J, Teunen L, Vanden Broeck A, Van Driessche C, Verstraeten A, De Wever A. (2024). INBO-beslissingsboom: Archiveren van natuurwetenschappelijke specimens (of niet)? Versie 1.0. (Rapporten van het Instituut voor Natuur- en Bosonderzoek; Nr. 45). Instituut voor Natuur- en Bosonderzoek. <https://doi.org/10.21436/inbor.111202455> 
+
+Veltjen E, Asselman P, Baert W, Baeyen S, Beirinckx L, Breyne L, Brosens D, Claerhout T, Cogneau S, Cox K, Cuypers L, Delgat L, Desmeth P, de Raad J, Esselens L, Eves Down M-R, Leliaert F, Meganck K, Pereboom Z, Smitz N, Sonet G, Trekels M, Vanden Broeck A, Van Driessche C, De Wever A (2024). The “Key” to Bringing DNA Collections to the Next Level: A DiSSCo Flanders Working Group Product. Biodiversity Information Science and Standards 8: e141720. <https://doi.org/10.3897/biss.8.141720>
+
+Veltjen E, Asselman P, Baert W, Baeyen S, Beirinckx L, Breyne L, Brosens D, Claerhout T, Cogneau S, Cox K, Cuypers L, Delgat L, Desmeth P, de Raad J, Esselens L, Eves Down M-R, Helsen P, Leliaert F, Meganck K, Pereboom Z, Smitz N, Sonet G, Trekels M, Vanden Broeck A, Van Driessche C, De Wever A (2024). The key to bringing DNA collections to the next level. Research Ideas and Outcomes 10: e135978. <https://doi.org/10.3897/rio.10.e135978>
 
 Leyman V, Leliaert F (2024). Origins and key contributors to the economic botany collection of Meise Botanic Garden. Proceedings of the Royal Academy for Overseas Sciences. <https://www.kaowarsom.be/documents/PDF%20BULLETIN/LEYMAN_LELIAERT.pdf>
 
