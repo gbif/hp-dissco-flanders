@@ -21,13 +21,6 @@ toc: true
 
 ## Vlaamse partners
 
-### [Vrije Universiteit Brussel](https://www.vub.be/nl)
-![Vrije Universiteit Brussel](/assets/images/placeholders/vub_logo_digitaal2-1536x684.jpg){: .rounded-lg .shadow-md width="300px"}
-
-De Vrije Universiteit Brussel (VUB) heeft relatief kleine collecties en zal ook haar kleine laboratorium- of weescollecties binnen DiSSCo aanpakken. De VUB is zich bewust van het belang van de collecties, maar weet dat de verantwoordelijke medewerker binnenkort met pensioen gaat en dat de kans op vervanging vrij klein is. Daarom wil ze een zo volledig mogelijke inventaris maken en binnen DiSSCo beslissen over de workflow om de meeste collecties elders onder te brengen voor veilige bewaring en betere toegankelijkheid voor wetenschappelijk hergebruik, in plaats van te investeren in lokale bewaarplaatsen. Het herbarium is ondergebracht bij MeiseBG. Op basis van de Academic Heritage assessment van 2012 vallen de volgende collecties van de VUB onder DiSSCo: Didactische collecties (0,62K), Medische didactische collecties (0,78K), Farmacie en geneeskunde (pm), Farmaceutisch instituut (30), Biochemische stalen medisch (3), Museum Anatomie (pm), Cellulaire en moleculaire immunologie (2), geconserveerde collecties (1K), Bladtissues en DNA (10K).
-
----
-
 ### [KU Leuven](https://www.kuleuven.be/kuleuven/index.html)
 ![KU Leuven](/assets/images/placeholders/KULEUVEN_0.png){: .rounded-lg .shadow-md width="300px"}
 
@@ -49,13 +42,6 @@ De Universiteit Gent (UGent) herbergt verschillende institutionele collecties, w
 
 ---
 
-### [Universiteit Antwerpen](https://www.uantwerpen.be/nl/)
-![University of Antwerp](/assets/images/placeholders/Universiteit_Antwerpen_nieuw_logo.svg.png){: .rounded-lg .shadow-md width="300px"}
-
-De Universiteit Antwerpen (UA) heeft verschillende collecties binnen DiSSCo. Naast institutionele collecties omvat dit ook labocollecties. Volgens het Academisch Erfgoedinventaris (2012) vallen de volgende collecties binnen DiSSCo: Diergeneeskunde (3K), Anatomie (0,7K), Pathologieën (0,2K), Zoölogie (12K), Herbarium (4,7K, gehost in MeiseBG), mineralen en gesteenten (0,1K), Muizen- en rattenvallen (0,3K), Educatieve biologie (70), Preparaten Biologie (9K), Kristalmodellen (50), Natuurgeschiedenis (50).
-
----
-
 ### [Instituut voor Landbouw-, Visserij- en Voedingsonderzoek (EV-ILVO)](https://ilvo.vlaanderen.be/nl/)
 ![ILVO](/assets/images/placeholders/ILVO logo.png){: .rounded-lg .shadow-md width="300px"}
 
@@ -71,9 +57,37 @@ VLIZ bevordert de accumulatie van mariene kennis en gegevens in Vlaanderen. Doel
 ---
 
 ### [Koninklijke Maatschappij voor Dierkunde van Antwerpen (KMDA)](https://www.zooantwerpen.be/en/antwerp-zoo-society/)
-![KDMA](/assets/images/placeholders/ZooAnt logo.jpg){: .rounded-lg .shadow-md width="300px"}
+![KMDA](/assets/images/placeholders/ZooAnt logo.jpg){: .rounded-lg .shadow-md width="300px"}
 
 KMDA beheert drie dierentuinen in Vlaanderen, het natuurgebied De Zegge en het Flanders Meeting and Convention Center Antwerpen. Het centrum voor Onderzoek en Behoud speelt een leidende rol in de wereldwijde dierentuingemeenschap. In DiSSCo speelt KMDA een sleutelrol in levende zoölogische collecties en genetische, weefsel- en celcollecties. De levende collecties omvatten 9K individuele dieren van 662 soorten en een arboretum. KMDA herbergt een van de vier fysieke locaties van de EAZA BioBank, gekoppeld aan ZIMS.
+
+---
+
+### [Instituut voor Tropische Geneeskunde (ITG)](https://www.itg.be/nl)
+![ITG](/assets/images/placeholders/ITM-logo_col_rgb.jpg){: .rounded-lg .shadow-md width="300px"}
+
+ITG streeft naar vooruitgang in wetenschap en gezondheid via onderzoek, onderwijs, medische dienstverlening en capaciteitsopbouw met partnerinstellingen wereldwijd. Als referentie-instituut, verbonden met onderzoekers wereldwijd, bewaart ITG een grote hoeveelheid menselijk en niet-menselijk materiaal en data. Het ontsluiten van de historische collecties voor de internationale onderzoekscommunity, met eerlijke toegang tot hoogwaardige collecties, is één van de wetenschappelijke doelstellingen van ITG. Het ITG neemt deel aan DiSSCo met de Prof. Van Marck-collectie (menselijke oorsprong), de insectencollectie en de historische natte preparatenverzameling.
+
+---
+
+### [Universiteit Hasselt (UHasselt)](https://www.uhasselt.be)
+![UHasselt](/assets/images/placeholders/UHasselt-logo.jpg){: .rounded-lg .shadow-md width="300px"}
+
+[Universiteit Hasselt](https://www.uhasselt.be/en) (UHasselt) beheert binnen haar Onderzoeksgroep Zoologie een gecureerde collectie van preparaten en weefselstalen van aquatische ongewervelden (voornamelijk platwormen). De Capaciteitsgroep Biologie-Geologie beschikt daarnaast over een didactische geologische collectie.
+
+## Belgische entiteiten
+
+### [Vrije Universiteit Brussel](https://www.vub.be/nl)
+![Vrije Universiteit Brussel](/assets/images/placeholders/vub_logo_digitaal2-1536x684.jpg){: .rounded-lg .shadow-md width="300px"}
+
+De Vrije Universiteit Brussel (VUB) heeft relatief kleine collecties en zal ook haar kleine laboratorium- of weescollecties binnen DiSSCo aanpakken. De VUB is zich bewust van het belang van de collecties, maar weet dat de verantwoordelijke medewerker binnenkort met pensioen gaat en dat de kans op vervanging vrij klein is. Daarom wil ze een zo volledig mogelijke inventaris maken en binnen DiSSCo beslissen over de workflow om de meeste collecties elders onder te brengen voor veilige bewaring en betere toegankelijkheid voor wetenschappelijk hergebruik, in plaats van te investeren in lokale bewaarplaatsen. Het herbarium is ondergebracht bij MeiseBG. Op basis van de Academic Heritage assessment van 2012 vallen de volgende collecties van de VUB onder DiSSCo: Didactische collecties (0,62K), Medische didactische collecties (0,78K), Farmacie en geneeskunde (pm), Farmaceutisch instituut (30), Biochemische stalen medisch (3), Museum Anatomie (pm), Cellulaire en moleculaire immunologie (2), geconserveerde collecties (1K), Bladtissues en DNA (10K).
+
+---
+
+### [Universiteit Antwerpen](https://www.uantwerpen.be/nl/)
+![University of Antwerp](/assets/images/placeholders/Universiteit_Antwerpen_nieuw_logo.svg.png){: .rounded-lg .shadow-md width="300px"}
+
+De Universiteit Antwerpen (UA) heeft verschillende collecties binnen DiSSCo. Naast institutionele collecties omvat dit ook labocollecties. Volgens het Academisch Erfgoedinventaris (2012) vallen de volgende collecties binnen DiSSCo: Diergeneeskunde (3K), Anatomie (0,7K), Pathologieën (0,2K), Zoölogie (12K), Herbarium (4,7K, gehost in MeiseBG), mineralen en gesteenten (0,1K), Muizen- en rattenvallen (0,3K), Educatieve biologie (70), Preparaten Biologie (9K), Kristalmodellen (50), Natuurgeschiedenis (50).
 
 ---
 
@@ -84,19 +98,10 @@ VBTA is een Belgische vereniging met rechtspersoonlijkheid in Vlaanderen, gevest
 
 ---
 
-### [Instituut voor Tropische Geneeskunde (ITM)](https://www.itg.be/nl)
-![ITM](/assets/images/placeholders/ITM-logo_col_rgb.jpg){: .rounded-lg .shadow-md width="300px"}
-
-ITM streeft naar vooruitgang in wetenschap en gezondheid via onderzoek, onderwijs, medische dienstverlening en capaciteitsopbouw met partnerinstellingen wereldwijd. Het ITM neemt deel aan DiSSCo met de Prof. Van Marck-collectie (menselijke oorsprong), de insectencollectie en de historische natte preparatenverzameling.
-
----
-
-## Belgische entiteiten
-
-### [Belgische Biodiversiteitsplatform](https://www.biodiversity.be/)
+<!--### [Belgische Biodiversiteitsplatform](https://www.biodiversity.be/)
 ![Belgian Biodiversity Platform](/assets/images/placeholders/Belgian-Biodiversity-Platform-e1580376501755.jpg){: .rounded-lg .shadow-md width="300px"}
 
-Het Belgische Biodiversiteitsplatform (BBPF) is een wetenschap-beleid interface-organisme gefinancierd door BELSPO. Het platform fungeert als bemiddelaar tussen beleid, wetenschap en praktijk. Om verlies aan biodiversiteit tegen te gaan, werken diverse stakeholders samen.
+Het Belgische Biodiversiteitsplatform (BBPF) is een wetenschap-beleid interface-organisme gefinancierd door BELSPO. Het platform fungeert als bemiddelaar tussen beleid, wetenschap en praktijk. Om verlies aan biodiversiteit tegen te gaan, werken diverse stakeholders samen.-->
 
 ---
 
@@ -125,3 +130,24 @@ ULB is een Franstalige particuliere onderzoeksuniversiteit in Brussel met ongeve
 ![UNamur](/assets/images/placeholders/uni NAmur logo.jpg){: .rounded-lg .shadow-md width="300px"}
 
 UNamur is een jezuïetische, katholieke particuliere universiteit in Namen. Het neemt deel aan DiSSCo met zijn herbarium van ongeveer 70.000 specimens van Phanerogams, Pteridophytes en Bryophytes en andere wetenschappelijke collecties.
+
+---
+
+### [Université de Mons (UMons))](https://web.umons.ac.be/en/)
+![UMons](/assets/images/placeholders/UMons_logo.jpg){: .rounded-lg .shadow-md width="300px"}
+
+[The University of Mons](https://web.umons.ac.be/en/) (UMons) 
+
+---
+
+### [Université de Liège (ULiège))](https://www.uliege.be/cms/c_8699436/en/uliege)
+![ULiège](/assets/images/placeholders/ULiège_logo.jpg){: .rounded-lg .shadow-md width="300px"}
+
+[Université de Liège](https://www.uliege.be/cms/c_8699436/en/uliege) (ULiège)
+
+---
+
+### [Université Catholique de Louvain (UCLouvain)](https://www.uclouvain.be/en)
+![UCLouvain](/assets/images/placeholders/UCLouvain_logo.jpg){: .rounded-lg .shadow-md width="300px"}
+
+[Université Catholique de Louvain](https://www.uclouvain.be/en) (UCLouvain)
