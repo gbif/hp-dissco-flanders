@@ -105,6 +105,20 @@ Het Belgische Biodiversiteitsplatform (BBPF) is een wetenschap-beleid interface-
 
 ---
 
+### [Royal Belgian Zoological Society (RBZS)](http://rbzs.be/)
+![RBZS](/assets/images/placeholders/RBZS_logo.png){: .rounded-lg .shadow-md width="300px"}
+
+[Royal Belgian Zoological Society](http://rbzs.be/) (RBZS), associated partner, promotes zoological research by connecting researchers nationally and internationally. It is key in identifying and integrating Belgian zoological collections.
+
+---
+
+### [dOMG-VPO -Geotheek](https://omgeving.vlaanderen.be/nl/klimaat-en-milieu/bodem-en-ondergrond/ondergrond-en-geologie)
+![dOMG-VPO -Geotheek](/assets/images/placeholders/dOMG_logo.png){: .rounded-lg .shadow-md width="300px"}
+
+[dOMG-VPO -Geotheek](https://omgeving.vlaanderen.be/nl/klimaat-en-milieu/bodem-en-ondergrond/ondergrond-en-geologie), associated partner, manages the Geotheek: a soil and subsoil sample repository as a reference collection, in close management with the digital Database soil and subsurface Flanders-data.
+
+---
+
 ### [Het Koninklijk Belgisch Instituut voor Natuurwetenschappen (KBIN)](https://www.naturalsciences.be/nl/museum/home)
 ![RBINS](/assets/images/placeholders/LogoNaturalSciences.jpg){: .rounded-lg .shadow-md width="300px"}
 
@@ -134,14 +148,14 @@ UNamur is een jezuïetische, katholieke particuliere universiteit in Namen. Het 
 ---
 
 ### [Université de Mons (UMons))](https://web.umons.ac.be/en/)
-![UMons](/assets/images/placeholders/UMons_logo.jpg){: .rounded-lg .shadow-md width="300px"}
+![UMons](/assets/images/placeholders/UMons_logo.png){: .rounded-lg .shadow-md width="300px"}
 
 [The University of Mons](https://web.umons.ac.be/en/) (UMons) 
 
 ---
 
 ### [Université de Liège (ULiège))](https://www.uliege.be/cms/c_8699436/en/uliege)
-![ULiège](/assets/images/placeholders/ULiège_logo.jpg){: .rounded-lg .shadow-md width="300px"}
+![ULiège](/assets/images/placeholders/ULiège_logo.png){: .rounded-lg .shadow-md width="300px"}
 
 [Université de Liège](https://www.uliege.be/cms/c_8699436/en/uliege) (ULiège)
 

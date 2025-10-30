@@ -55,8 +55,8 @@ toc: true
 
 ---
 
-### [Royal Zoological Society of Antwerp (KDMA)](https://www.zooantwerpen.be/en/antwerp-zoo-society/)
-![KDMA](/assets/images/placeholders/ZooAnt logo.jpg){: .rounded-lg .shadow-md width="300px"}
+### [Royal Zoological Society of Antwerp (KMDA)](https://www.zooantwerpen.be/en/antwerp-zoo-society/)
+![KMDA](/assets/images/placeholders/ZooAnt logo.jpg){: .rounded-lg .shadow-md width="300px"}
 
 [Royal Zoological Society of Antwerp](https://www.zooantwerpen.be/en/antwerp-zoo-society/) (KDMA) manages three zoological gardens in Flanders (ZOO Antwerpen, ZOO Planckendael, and ZOO Serpentarium), the De Zegge nature reserve in Geel, and the Flanders Meeting and Convention Center Antwerp. The KMDA Centre for Research and Conservation plays a leading role in the global zoo community in terms of scientific research and conservation of threatened animal species and their habitats. In DiSSCo, KDMA will play a key role in terms of zoological living collections, as well as genetic, tissues and cell collections. The living collections comprise 9K individual animals of 662 species, as well as an arboretum. KMDA hosts one of the four physical locations of the EAZA BioBank, linked to ZIMS.
 
@@ -99,14 +99,14 @@ aquatic invertebrates (mainly flatworms). The Capacity Group Biology-Geology als
 ---
 
 ### [Royal Belgian Zoological Society (RBZS)](http://rbzs.be/)
-![RBZS](/assets/images/placeholders/RBZS-logo.jpg){: .rounded-lg .shadow-md width="300px"}
+![RBZS](/assets/images/placeholders/RBZS_logo.png){: .rounded-lg .shadow-md width="300px"}
 
 [Royal Belgian Zoological Society](http://rbzs.be/) (RBZS), associated partner, promotes zoological research by connecting researchers nationally and internationally. It is key in identifying and integrating Belgian zoological collections.
 
 ---
 
 ### [dOMG-VPO -Geotheek](https://omgeving.vlaanderen.be/nl/klimaat-en-milieu/bodem-en-ondergrond/ondergrond-en-geologie)
-![dOMG-VPO -Geotheek](/assets/images/placeholders/dOMG-VPO -Geotheek-logo.jpg){: .rounded-lg .shadow-md width="300px"}
+![dOMG-VPO -Geotheek](/assets/images/placeholders/dOMG_logo.png){: .rounded-lg .shadow-md width="300px"}
 
 [dOMG-VPO -Geotheek](https://omgeving.vlaanderen.be/nl/klimaat-en-milieu/bodem-en-ondergrond/ondergrond-en-geologie), associated partner, manages the Geotheek: a soil and subsoil sample repository as a reference collection, in close management with the digital Database soil and subsurface Flanders-data.
 
@@ -148,14 +148,14 @@ aquatic invertebrates (mainly flatworms). The Capacity Group Biology-Geology als
 ---
 
 ### [University of Mons (UMons))](https://web.umons.ac.be/en/)
-![UMons](/assets/images/placeholders/UMons_logo.jpg){: .rounded-lg .shadow-md width="300px"}
+![UMons](/assets/images/placeholders/UMons_logo.png){: .rounded-lg .shadow-md width="300px"}
 
 [The University of Mons](https://web.umons.ac.be/en/) (UMons) 
 
 ---
 
 ### [Université de Liège (ULiège))](https://www.uliege.be/cms/c_8699436/en/uliege)
-![ULiège](/assets/images/placeholders/ULiège_logo.jpg){: .rounded-lg .shadow-md width="300px"}
+![ULiège](/assets/images/placeholders/ULiège_logo.png){: .rounded-lg .shadow-md width="300px"}
 
 [Université de Liège](https://www.uliege.be/cms/c_8699436/en/uliege) (ULiège)
 
