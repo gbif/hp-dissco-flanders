@@ -34,4 +34,6 @@ The DiSSCo Flanders use-case examined regional Flemish collections through a sur
 ![alt text](/assets/images/placeholders/DiSSCoFlandersConsortium.png)
 --
 
-The consortium comprises nine funded and twelve associated partners, including Flemish universities, research institutions, and an association of botanical gardens and arboreta. Together, they represent rich collections of approximately 5.8 million specimens and bring expertise in collection management, digitisation, biodiversity informatics, machine learning, citizen science, and legal and ethical domains. The consortium is also active in education, collection-based research, and applications, and is closely linked to international organisations and research infrastructures.Associated to the project are the Federal Belgian collections to ensure aligned policies and procedures.
+The consortium exists of the Flemish universities, research institutions, and an association of 
+botanical gardens and arboreta. Associated to the project are the  Federal Belgian collections
+to ensure aligned policies and procedures.
