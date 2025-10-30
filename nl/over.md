@@ -31,7 +31,7 @@ De DiSSCo Flanders use-case heeft regionale Vlaamse collecties onderzocht door m
 
 ### DiSSCo Flanders Consortium 
 
-![alt text](/assets/images/placeholders/2_01_WEB_2_DiSSCo_1.png)
+![alt text](/assets/images/placeholders/DiSSCoFlandersConsortium.png)
 --
 
-Het consortium bestaat uit Vlaamse universiteiten, onderzoeksinstellingen en een vereniging van botanische tuinen en arboreta. Bij het project horen de federale Belgische collecties om afgestemde beleidslijnen en procedures te garanderen. 
+Het consortium bestaat uit negen gefinancierde en twaalf geassocieerde partners, waaronder Vlaamse universiteiten, onderzoeksinstellingen en een vereniging van botanische tuinen en arboreta. Samen vertegenwoordigen ze rijke collecties van ongeveer 5,8 miljoen specimens en brengen ze expertise samen op het vlak van collectiebeheer, digitalisering, biodiversiteitsinformatica, machine learning, citizen science, en juridische en ethische domeinen. Het consortium is bovendien actief op het gebied van onderwijs, collectiegericht onderzoek en toepassingen, en onderhoudt nauwe banden met internationale organisaties en onderzoeksinfrastructuren. De federale Belgische collecties zijn bij het project betrokken om afgestemde beleidslijnen en procedures te verzekeren.

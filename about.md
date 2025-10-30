@@ -31,7 +31,7 @@ The DiSSCo Flanders use-case examined regional Flemish collections through a sur
 
 ### DiSSCo Flanders Consortium 
 
-![alt text](/assets/images/placeholders/2_01_WEB_2_DiSSCo_1.png)
+![alt text](/assets/images/placeholders/DiSSCoFlandersConsortium.png)
 --
 
 The consortium exists of the Flemish universities, research institutions, and an association of 
