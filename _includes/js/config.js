@@ -7,12 +7,16 @@ var siteConfig = {
     },
     {
       "id": "literatureSearch"
+    },
+     {
+      "id": "institutionSearch"
     }
   ],
   "disableInlineTableFilterButtons": false,
   "availableCatalogues": [
     "OCCURRENCE",
-    "LITERATURE"
+    "LITERATURE",
+    "INSTITUTION"
   ],
   "dataHeader": {
     "enableApiPopup": false,
@@ -84,7 +88,23 @@ var siteConfig = {
     }
   },
   "collectionSearch": {},
-  "institutionSearch": {},
+  "institutionSearch": {
+       // excludedFilters: ['country', 'active'],
+    // highlightedFilters: ['q', 'type'],
+    // defaultTableColumns: ['title', 'type'],
+    "scope": {
+      // TODO: you should add a scope here if you need search to be limited to a subset
+      // search filters have the format {field: [values]}
+      "active": true,
+      "country": ["BE"]
+    },
+    "mapSettings": {
+      "enabled": true,
+      "lat": 50.5,
+      "lng": 4.5,
+      "zoom": 20
+    },
+  },
   "datasetSearch": {},
   "publisherSearch": {},
   "literatureSearch": {
@@ -98,7 +118,8 @@ var siteConfig = {
         "ce416850-8934-11dc-9962-b8a03c50a862",
         "0310b080-ec4b-11dc-b73e-b8a03c50a862",
         "67caab70-ec4b-11dc-b73f-b8a03c50a862",
-        "c9e31c10-6986-4795-8244-30ad2486d0bb"
+        "c9e31c10-6986-4795-8244-30ad2486d0bb",
+        "ec836767-7df3-4b7e-bee4-63e1d3ee0bba"
       ]
     },
     "highlightedFilters": [
