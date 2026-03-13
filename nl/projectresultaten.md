@@ -5,7 +5,7 @@ title: Project resultaten
 description: Publicaties van DiSSCo Flanders
 background: /assets/images/placeholders/collections_small.jpg
 height: 60vh
-permalink: /nl/projectresultaten
+permalink: /nl/project_output
 toc: true
 ---
 
