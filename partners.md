@@ -91,10 +91,10 @@ aquatic invertebrates (mainly flatworms). The Capacity Group Biology-Geology als
 
 ---
 
-### [Vereniging van Botanische Tuinen en Arboreta (VBTA)](https://www.botanischetuinen.be/en/association)
+### [Vereniging van Botanische Tuinen en Arboreta (VBTA)](https://www.botanischetuinen.be/en/)
 ![VBTA](/assets/images/placeholders/vbta logo.png){: .rounded-lg .shadow-md width="300px"}
 
-[Botanic Gardens and Arboreta Association](https://www.botanischetuinen.be/en/association) (VBTA) is a Belgian association with legal status in Flanders (seat in MeiseBG). On board are the largest botanic gardens of Belgium, as well as several smaller arboreta. From the 21 gardens listed, 19 are situated in Flanders. In total, it is estimated that they harbor more than 30K different species of plants. Based on the information available for the gardens not listed above as part of the other consortium members, up to 25K herbarium specimens are present. The living collections are expressed in different metrics: number of individual plants, number of taxa or number of accessions. DiSSCo is the occasion to update this portal to modern standards and mobilize the data using standard metrics.
+[Botanic Gardens and Arboreta Association](https://www.botanischetuinen.be/en/) (VBTA) is a Belgian association with legal status in Flanders (seat in MeiseBG). On board are the largest botanic gardens of Belgium, as well as several smaller arboreta. From the 21 gardens listed, 19 are situated in Flanders. In total, it is estimated that they harbor more than 30K different species of plants. Based on the information available for the gardens not listed above as part of the other consortium members, up to 25K herbarium specimens are present. The living collections are expressed in different metrics: number of individual plants, number of taxa or number of accessions. DiSSCo is the occasion to update this portal to modern standards and mobilize the data using standard metrics.
 
 ---
 

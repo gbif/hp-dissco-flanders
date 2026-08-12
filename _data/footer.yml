@@ -26,7 +26,7 @@ columns:
     - text: Research Institute Nature and Forest
       href: https://www.vlaanderen.be/inbo/en-gb/homepage/
     - text: Vereniging van Botanische Tuinen en Arboreta
-      href: https://www.botanischetuinen.be/en/association
+      href: https://www.botanischetuinen.be/en/
     - text: Royal Museum for Central Africa
       href: https://www.africamuseum.be/en
     - text: Université libre de Bruxelles
@@ -35,6 +35,8 @@ columns:
       href: https://www.unamur.be/en
     - text: Royal Belgian Institute of Natural Sciences
       href: https://www.naturalsciences.be/en/museum/home
+    - text: Institute of Tropical Medicine 
+      href: https://www.itg.be/
     
   - name: Code
     description: | # Can be Markdown
