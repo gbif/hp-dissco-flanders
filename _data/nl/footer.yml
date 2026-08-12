@@ -35,7 +35,9 @@ columns:
       href: https://www.unamur.be
     - text: Koninklijk Belgisch Instutuut voor Natuurwetenschappen
       href: https://www.naturalsciences.be/nl/museum/home
-    
+    - text: Instituut voor Tropische Geneeskunde
+      href: https://www.itg.be/nl
+      
   - name: Code
     description: | # Can be Markdown
       Dit project is open source. Zie onze [GitHub](https://github.com/gbif/hp-dissco-flanders) pagina
